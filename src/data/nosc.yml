@@ -1,0 +1,1233 @@
+- name: "NOSC Akron"
+  address:
+    street1: "5986 W. Airport Dr"
+    city: "North Canton"
+    state: "OH"
+    zip: "44720"
+  phone: "(330)491-3450"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/AKRON/Pages/NRH_Default.aspx"
+  coordinates: 40°55'43.8"N 81°26'59.7"W
+- name: "NOSC Avoca"
+  address:
+    street1: "1200 Navy Way Rd"
+    city: "Avoca"
+    state: "PA"
+    zip: "18641"
+  phone: "(570) 457-8430"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/AVOCA/Pages/NRH_Default.aspx"
+  coordinates: 41°19'59.0"N 75°44'05.6"W
+- name: "NOSC Battle Creek"
+  address:
+    street1: "2000 VLUG ROAD"
+    city: "Augusta"
+    state: "MI"
+    zip: "49012"
+  phone: "(269) 968-9216"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/BATTLE_CREEK/Pages/NRH_Default.aspx"
+  coordinates: 42°19'45.2"N 85°16'57.7"W
+- name: "NOSC Chicago"
+  address:
+    street1: "615 Barry Rd Bldg 190"
+    city: "Great Lakes"
+    state: "IL"
+    zip: "60088"
+  phone: "847-688-3760"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/CHICAGO/Pages/NRH_Default.aspx"
+  coordinates: 42°18'35.6"N 87°50'29.5"W
+- name: "NOSC Cincinnati"
+  address:
+    street1: "3190 Gilbert Ave"
+    city: "Cincinnati"
+    state: "OH"
+    zip: "45207"
+  phone: "(513) 221-0138"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/CINCINNATI/Pages/SurgeMain.aspx"
+  coordinates: 39°08'13.8"N 84°28'47.5"W
+- name: "NOSC Columbus OH"
+  address:
+    street1: "7221 2nd Street"
+    city: "Columbus"
+    state: "OH"
+    zip: "43217"
+  phone: "(614) 492-2891"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/COLUMBUS_OH/Pages/NRH_Default.aspx"
+  coordinates: 39°49'12.5"N 82°56'43.3"W
+- name: "NOSC Decatur"
+  address:
+    street1: "2595 EAST FEDERAL DRIVE"
+    city: "DECATUR"
+    state: "IL"
+    zip: "62526"
+  phone: "(217) 875-1733"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/DECATUR/Pages/NRH_Default.aspx"
+  coordinates: 39°53'20.0"N 88°55'14.5"W
+- name: "NOSC Detroit"
+  address:
+    street1: "25660 ELLSWORTH Bldg 1409"
+    city: "Harrison Charter Township"
+    state: "MI"
+    zip: "48045"
+  phone: "(586) 239-6289"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/DETROIT/Pages/NRH_Default.aspx"
+  coordinates: 42°37'23.2"N 82°50'53.8"W
+- name: "NOSC Ebensburg"
+  address:
+    street1: "261 Industrial Park Road"
+    city: "Ebensburg"
+    state: "PA"
+    zip: "15931"
+  phone: "(814) 472-5083"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/EBENSBURG/Pages/NRH_Default.aspx"
+  coordinates: 40°27'48.7"N 78°45'37.4"W
+- name: "NOSC Eleanor"
+  address:
+    street1: "111 Army Navy Drive"
+    city: "Red House"
+    state: "WV"
+    zip: "25168"
+  phone: "304-586-0326"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/ELEANOR/Pages/NRH_Default.aspx"
+  coordinates: 38°31'46.6"N 81°54'59.7"W
+- name: "NOSC Erie"
+  address:
+    street1: "3938 Old French Rd"
+    city: "Erie"
+    state: "PA"
+    zip: "16504"
+  phone: "(814) 866-3073"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/ERIE/Pages/NRH_Default.aspx"
+  coordinates: 42°06'03.4"N 80°03'45.2"W
+- name: "NOSC Green Bay"
+  address:
+    street1: "2949 Ramada Way"
+    city: "Green Bay"
+    state: "WI"
+    zip: "54304"
+  phone: "(920) 336-2444"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/GREEN_BAY/Pages/NRH_Default.aspx"
+  coordinates: 44°28'09.3"N 88°04'35.1"W
+- name: "NOSC Harrisburg"
+  address:
+    street1: "5450 Carlisle Pike Bldg 9"
+    city: "Mechanicsburg"
+    state: "PA"
+    zip: "17050"
+  phone: "(717) 724-7300"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/HARRISBURG/Pages/NRH_Default.aspx"
+  coordinates: 40°14'03.4"N 76°59'18.6"W
+- name: "NOSC Indianapolis"
+  address:
+    street1: "9801 E. 59th St."
+    city: "Indianapolis"
+    state: "IN"
+    zip: "46216"
+  phone: "(317) 377-8600"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/INDIANAPOLIS/Pages/NRH_Default.aspx"
+  coordinates: 39°51'43.3"N 85°59'42.8"W
+- name: "NOSC Lehigh Valley"
+  address:
+    street1: "1400 Postal Rd"
+    city: "Allentown"
+    state: "PA"
+    zip: "18109"
+  phone: "610-264-8823"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/LEHIGH_VALLEY/Pages/NRH_Defualt.aspx"
+  coordinates: 40°38'39.9"N 75°26'16.4"W
+- name: "NOSC Lousiville"
+  address:
+    street1: "5401 Southside Drive"
+    city: "Louisville"
+    state: "KY"
+    zip: "40214"
+  phone: "(502) 375-3329"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/LOUISVILLE/Pages/NRH_Default.aspx"
+  coordinates: 38°10'13.8"N 85°45'50.3"W
+- name: "NOSC Madison"
+  address:
+    street1: "6001 MANUFACTURERS DRIVE"
+    city: "MADISON"
+    state: "WI"
+    zip: "53704"
+  phone: "(608) 249-0129"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/MADISON/Pages/NRH_Default.aspx"
+  coordinates: 43°09'31.4"N 89°18'58.7"W
+- name: "NOSC Milwaukee"
+  address:
+    street1: "2401 S. LINCOLN MEMORIAL DR"
+    city: "MILWAUKEE"
+    state: "WI"
+    zip: "53207"
+  phone: "(414)744-9764"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/MILWAUKEE/Pages/NRH_Default.aspx"
+  coordinates: 43°00'05.8"N 87°53'25.4"W
+- name: "NOSC Peoria"
+  address:
+    street1: "7117 West Plank Road"
+    city: "Peoria"
+    state: "IL"
+    zip: "61604"
+  phone: "(309) 697-5755"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/PEORIA/Pages/NRH_Default.aspx"
+  coordinates: 40°41'27.4"N 89°42'19.9"W
+- name: "NOSC Pittsburgh"
+  address:
+    street1: "1265 Rocky Lane"
+    city: "Coraopolis"
+    state: "PA"
+    zip: "15108"
+  phone: "412-776-4000"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/PITTSBURGH/Pages/NRH_Default.aspx"
+  coordinates: 40°29'44.0"N 80°12'34.9"W
+- name: "NOSC Rock Island"
+  address:
+    street1: "218 Rodman Ave"
+    city: "Rock Island"
+    state: "IL"
+    zip: "61299"
+  phone: "309-782-6084"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/ROCK_ISLAND/Pages/NRH_Default.aspx"
+  coordinates: 41°31'00.6"N 90°33'44.3"W
+- name: "NOSC Saginaw"
+  address:
+    street1: "3500 DOUGLASS STREET"
+    city: "SAGINAW"
+    state: "MI"
+    zip: "48601"
+  phone: "(989)754-3091"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/SAGINAW/Pages/NRH_Default.aspx"
+  coordinates: 43°23'27.0"N 83°57'43.2"W
+- name: "NOSC Toledo"
+  address:
+    street1: "28828 GLENWOOD ROAD"
+    city: "PERRYSBURG"
+    state: "OH"
+    zip: "43551"
+  phone: "(419)666-3444"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/TOLEDO/Pages/NRH_Default.aspx"
+  coordinates: 41°34'13.0"N 83°33'26.0"W
+- name: "NOSC Youngstown"
+  address:
+    street1: "3976 King Grave Rd Unit 80"
+    city: "Vienna"
+    state: "OH"
+    zip: "44473"
+  phone: "330-609-1900"
+  region: "Navy Region Mid-Atlantic (Great Lakes)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/YOUNGSTOWN/Pages/NRH_Default.aspx"
+  coordinates: 41°16'18.4"N 80°40'34.8"W
+- name: "NOSC Baltimore"
+  address:
+    street1: "1201 Halsey Place"
+    city: "Baltimore"
+    state: "MD"
+    zip: "21230"
+  phone: "410-752-4561"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/BALTIMORE/Pages/NRH_Default.aspx"
+  coordinates: 39°16'00.3"N 76°34'49.8"W
+- name: "NOSC Bangor"
+  address:
+    street1: "300 Hildreth St. N. Ste. 300"
+    city: "Bangor"
+    state: "ME"
+    zip: "04401"
+  phone: "(207) 974-1301"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/BANGOR/Pages/NAVOPSPTCEN%20Bangor.aspx"
+  coordinates: 44°48'08.8"N 68°50'20.3"W
+- name: "NOSC Buffalo"
+  address:
+    street1: "3 Porter Ave"
+    city: "Buffalo"
+    state: "NY"
+    zip: "14201"
+  phone: "(716)883-1016"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/Buffalo/Pages/NRH_Default.aspx"
+  coordinates: 42°53'53.6"N 78°53'54.8"W
+- name: "NOSC Charlotte"
+  address:
+    street1: "6115 N Hills Circle Suite A"
+    city: "Charlotte"
+    state: "NC"
+    zip: "28213"
+  phone: "(704)598-0447"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/CHARLOTTE/Pages/NRH_Default.aspx"
+  coordinates: 35°16'07.6"N 80°45'50.3"W
+- name: "NOSC Earle"
+  address:
+    street1: "801 HIGHWAY 36 BLDG R-4A"
+    city: "LEONARDO"
+    state: "NJ"
+    zip: "07737"
+  phone: "(732) 866-7288"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/EARLE/Pages/NRH_Default.aspx"
+  coordinates: 40°25'03.8"N 74°04'14.0"W
+- name: "NOSC Fort Dix"
+  address:
+    street1: "5951 Newport St"
+    city: "Fort Dix"
+    state: "NJ"
+    zip: "08640"
+  phone: "(609) 562-1567"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/FORT_DIX/Pages/NRH_Default.aspx"
+  coordinates: 40°00'13.3"N 74°37'30.7"W
+- name: "NOSC Greensboro"
+  address:
+    street1: "7838 MCCLOUD ROAD"
+    city: "Greensboro"
+    state: "NC"
+    zip: "27409"
+  phone: "(336) 668-0053"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/GREENSBORO/Pages/NRH_Default.aspx"
+  coordinates: 36°05'14.9"N 79°58'31.5"W
+- name: "NOSC Long Island"
+  address:
+    street1: "25 Baiting Place Rd"
+    city: "Farmingdale"
+    state: "NY"
+    zip: "11735"
+  phone: "(631) 768-3250"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/LONG_ISLAND/Pages/NRH_Default.aspx"
+  coordinates: 40°42'49.1"N 73°25'33.1"W
+- name: "NOSC Manchester"
+  address:
+    street1: "64 HARVEY ROAD STE 101"
+    city: "LONDONDERRY"
+    state: "NH"
+    zip: "03053"
+  phone: "(910) 598-9758"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/MANCHESTER/Pages/NRH_Default.aspx"
+  coordinates: 42°54'41.0"N 71°25'08.7"W
+- name: "NOSC New Castle"
+  address:
+    street1: "1 Vavala Way"
+    city: "New Castle"
+    state: "DE"
+    zip: "19720"
+  phone: "302-326-7792"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/NEW_CASTLE/Pages/NRH_Default.aspx"
+  coordinates: 39°41'01.8"N 75°37'04.2"W
+- name: "NOSC New London"
+  address:
+    street1: "86 Grayling Ave"
+    city: "Groton"
+    state: "CT"
+    zip: "06349"
+  phone: "(860) 694-6565"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/NEW_LONDON/Pages/NRH_Default.aspx"
+  coordinates: 41°23'27.3"N 72°05'15.4"W
+- name: "NOSC New York City"
+  address:
+    street1: "4 Pennyfield Ave"
+    city: "Bronx"
+    state: "NY"
+    zip: "10465"
+  phone: "(718) 892-0312"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/NEW_YORK_CITY/Pages/NRH_Default.aspx"
+  coordinates: 40°48'36.4"N 73°48'05.8"W
+- name: "NOSC Newport"
+  address:
+    street1: "345 Easton Street"
+    city: "Newport"
+    state: "RI"
+    zip: "02841"
+  phone: "401-841-4550"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/NEWPORT/Pages/NRH_Default.aspx"
+  coordinates: 41°30'49.1"N 71°19'11.9"W
+- name: "NOSC Norfolk"
+  address:
+    street1: "One Navy Dr."
+    city: "Virginia Beach"
+    state: "VA"
+    zip: "23459"
+  phone: "(757) 318-4500"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/NORFOLK/Pages/NRH_Default.aspx"
+  coordinates: 36°54'50.3"N 76°11'17.1"W
+- name: "NOSC Plainville"
+  address:
+    street1: "1 LINSLEY DRIVE"
+    city: "PLAINVILLE"
+    state: "CT"
+    zip: "06062"
+  phone: "(860) 747-4563"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/PLAINVILLE/Pages/NRH_Default.aspx"
+  coordinates: 41°39'38.8"N 72°51'27.8"W
+- name: "NOSC Quincy"
+  address:
+    street1: "85 SEA ST"
+    city: "QUINCY"
+    state: "MA"
+    zip: "02169"
+  phone: "(617) 753-4600"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/QUINCY/Pages/NRH_Default.aspx"
+  coordinates: 42°15'30.8"N 70°59'41.6"W
+- name: "NOSC Raleigh"
+  address:
+    street1: "2725 Western Blvd"
+    city: "Raleigh"
+    state: "NC"
+    zip: "27606"
+  phone: "919-834-6461"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/RALEIGH/Pages/NRH_Default.aspx"
+  coordinates: 35°46'53.6"N 78°40'41.3"W
+- name: "NOSC Richmond"
+  address:
+    street1: "6000 STRATHMORE RD"
+    city: "RICHMOND"
+    state: "VA"
+    zip: "23234"
+  phone: "(804) 271-6096"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/RICHMOND/Pages/NRH_Default.aspx"
+  coordinates: 37°26'38.4"N 77°27'02.0"W
+- name: "NOSC Roanoke"
+  address:
+    street1: "5301 Barns Avenue"
+    city: "Roanoke"
+    state: "VA"
+    zip: "24019"
+  phone: "540-563-9723"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/ROANOKE/Pages/NRH_Default.aspx"
+  coordinates: 37°19'56.8"N 79°58'31.9"W
+- name: "NOSC Rochester"
+  address:
+    street1: "439 PAUL ROAD"
+    city: "ROCHESTER"
+    state: "NY"
+    zip: "14624"
+  phone: "(585) 247-6858"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/ROCHESTER/Pages/NOSC%20Rochester.aspx"
+  coordinates: 43°06'20.3"N 77°42'44.7"W
+- name: "NOSC Schenectady"
+  address:
+    street1: "251 RUDY CHASE DRIVE"
+    city: "SCHENECTADY"
+    state: "NY"
+    zip: "12302"
+  phone: "(518) 399-2134"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/SCHENECTADY/Pages/NRH_Default.aspx"
+  coordinates: 42°51'26.5"N 73°55'55.0"W
+- name: "NOSC Syracuse"
+  address:
+    street1: "5803 EAST MOLLOY ROAD"
+    city: "MATTYDALE"
+    state: "NY"
+    zip: "13211"
+  phone: "(315) 455-2441"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/SYRACUSE/Pages/NRH_Default.aspx"
+  coordinates: 43°05'59.1"N 76°06'59.5"W
+- name: "NOSC Washington D.C."
+  address:
+    street1: "3282 East Perimeter Road"
+    city: "Joint Base Andrews"
+    state: "MD"
+    zip: "20762"
+  phone: "240-857-8948"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/Washington_DC/Pages/NRH_Default.aspx"
+  coordinates: 38°48'23.5"N 76°51'23.3"W
+- name: "NOSC White River Junction"
+  address:
+    street1: "207 Holiday Drive"
+    city: "White River Junction"
+    state: "VT"
+    zip: "05001"
+  phone: "(802) 295-0050"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/WHITE_RIVER_JUNCTION/Pages/NRH_Default.aspx"
+  coordinates: 43°38'35.9"N 72°20'04.5"W
+- name: "NOSC Wilmington NC"
+  address:
+    street1: "3623 Carolina Beach Road"
+    city: "Wilmington"
+    state: "NC"
+    zip: "28412"
+  phone: "(910) 771-3900"
+  region: "Navy Region Mid-Atlantic (Norfolk)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/WILMINGTON_NC/Pages/NRH_Default.aspx"
+  coordinates: 34°10'50.0"N 77°55'35.1"W
+- name: "NOSC Atlanta"
+  address:
+    street1: "1210 Naval Force Court Bldg 440"
+    city: "Marietta"
+    state: "GA"
+    zip: "30069"
+  phone: "678-655-5927"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/ATLANTA/Pages/NRH_Default.aspx"
+  coordinates: 33°55'41.4"N 84°31'09.1"W
+- name: "NOSC Augusta"
+  address:
+    street1: "2869 Central Avenue"
+    city: "Augusta"
+    state: "GA"
+    zip: "30909"
+  phone: "706-733-2249"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/AUGUSTA/Pages/NRH_Default.aspx"
+  coordinates: 33°28'18.7"N 82°02'13.7"W
+- name: "NOSC Bessemer"
+  address:
+    street1: "1001 4th Ave SW"
+    city: "Bessemer"
+    state: "AL"
+    zip: "35022"
+  phone: "205-497-2600"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/BESSEMER/Pages/DEFAULT.aspx"
+  coordinates: 33°22'00.3"N 86°58'55.4"W
+- name: "NOSC Charleston"
+  address:
+    street1: "1050 Remount Rd BLDG 3370"
+    city: "North Charleston"
+    state: "SC"
+    zip: "29406"
+  phone: "(843) 794-2620"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/CHARLESTON/Pages/NRH_Default.aspx"
+  coordinates: 32°54'19.6"N 79°58'45.8"W
+- name: "NOSC Chattanooga"
+  address:
+    street1: "4051 Amnicola Highway"
+    city: "Chattanooga"
+    state: "TN"
+    zip: "37406"
+  phone: "423 698 8955"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/CHATTANOOGA/Pages/NRH_Default.aspx"
+  coordinates: 35°05'43.4"N 85°15'12.3"W
+- name: "NOSC Columbia"
+  address:
+    street1: "2620 LEE ROAD"
+    city: "FORT JACKSON"
+    state: "SC"
+    zip: "29207"
+  phone: "(803) 751-9251"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/COLUMBIA/Pages/NRH_Default.aspx"
+  coordinates: 34°00'04.1"N 80°56'16.7"W
+- name: "NOSC Columbus GA"
+  address:
+    street1: "414 4th St."
+    city: "Columbus"
+    state: "GA"
+    zip: "31901"
+  phone: "(706) 322-4670"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/COLUMBUS_GA/Pages/NRH_Default.aspx"
+  coordinates: 32°27'11.2"N 84°59'13.3"W
+- name: "NOSC Greenville"
+  address:
+    street1: "669 Perimeter Road"
+    city: "GREENVILLE"
+    state: "SC"
+    zip: "29605"
+  phone: "864-552-2940"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/GREENVILLE/Pages/NRH_Default.aspx"
+  coordinates: 34°45'47.0"N 82°22'46.7"W
+- name: "NOSC Jacksonville"
+  address:
+    street1: "966 Ajax St"
+    city: "Jacksonville"
+    state: "FL"
+    zip: "32212"
+  phone: "(904) 542-3320"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/JACKSONVILLE/Pages/NRH_Default.aspx"
+  coordinates: 30°13'17.9"N 81°40'45.7"W
+- name: "NOSC Knoxville"
+  address:
+    street1: "2101 Alcoa Hwy"
+    city: "Knoxville"
+    state: "TN"
+    zip: "37920"
+  phone: "865-545-4720"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/KNOXVILLE/Pages/NRH_Default.aspx"
+  coordinates: 35°55'50.7"N 83°57'01.4"W
+- name: "NOSC Memphis"
+  address:
+    street1: "7994 HORNET AVE"
+    city: "MILLINGTON"
+    state: "TN"
+    zip: "38054"
+  phone: "(901) 874-5256"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/MEMPHIS/Pages/NRH_Default.aspx"
+  coordinates: 35°20'16.9"N 89°52'17.6"W
+- name: "NOSC Miami"
+  address:
+    street1: "18650 NW 62ND Ave"
+    city: "Hialeah"
+    state: "FL"
+    zip: "33015"
+  phone: "(305) 628-5150"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/MIAMI/Pages/NOSC-Miami.aspx"
+  coordinates: 25°56'38.1"N 80°18'02.2"W
+- name: "NOSC Nashville"
+  address:
+    street1: "686 Fitzhugh Blvd"
+    city: "Smyrna"
+    state: "TN"
+    zip: "37167"
+  phone: "615-267-6352"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/NASHVILLE/Pages/NRH_Default.aspx"
+  coordinates: 36°00'42.6"N 86°30'26.6"W
+- name: "NOSC Orlando"
+  address:
+    street1: "9500 Armed Forces Reserve Drive Suite 200"
+    street2: "Suite 200"
+    city: "Orlando"
+    state: "FL"
+    zip: "32827"
+  phone: "(407) 240-5939"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/ORLANDO/Pages/NRH_Default.aspx"
+  coordinates: 28°25'43.4"N 81°20'51.8"W
+- name: "NOSC Pensacola"
+  address:
+    street1: "115 Cunningham St Bldg 781"
+    city: "Pensacola"
+    state: "FL"
+    zip: "32508"
+  phone: "850-452-7178"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/PENSACOLA/Pages/NRH_default.aspx"
+  coordinates: 30°21'51.4"N 87°16'30.8"W
+- name: "NOSC Puerto Rico"
+  address:
+    street1: "77 Navy Way"
+    city: "Fort Buchanan"
+    state: "PR"
+    zip: "00934"
+  phone: "(787) 707-4636"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/PUERTO_RICO/Pages/NRH_Default.aspx"
+  coordinates: 18°24'53.9"N 66°07'44.3"W
+- name: "NOSC Tallahassee"
+  address:
+    street1: "2910 Roberts Ave"
+    city: "Tallahassee"
+    state: "FL"
+    zip: "32310"
+  phone: "(850)576-6194"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/TALLAHASSEE/Pages/NRH_Default.aspx"
+  coordinates: 30°25'48.2"N 84°20'11.1"W
+- name: "NOSC Tampa"
+  address:
+    street1: "2750 Southshore Ave"
+    city: "Tampa"
+    state: "FL"
+    zip: "33621"
+  phone: "813-828-3009"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/TAMPA/Pages/NRH_Default.aspx"
+  coordinates: 27°50'19.0"N 82°29'27.2"W
+- name: "NOSC West Palm Beach"
+  address:
+    street1: "1227 MARINE DRIVE"
+    city: "WEST PALM BEACH"
+    state: "FL"
+    zip: "33409"
+  phone: "(561) 687-3954"
+  region: "Navy Region Southeast (Jacksonville)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/WEST_PALM_BEACH/Pages/NRH_DEFAULT.aspx"
+  coordinates: 26°41'33.9"N 80°05'38.2"W
+- name: "NOSC Amarillo"
+  address:
+    street1: "2500 Tee Anchor Blvd"
+    city: "Amarillo"
+    state: "TX"
+    zip: "79104"
+  phone: "(806) 372-5589"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/AMARILLO/Pages/NRH_Default.aspx"
+  coordinates: 35°11'56.5"N 101°48'33.3"W
+- name: "NOSC Austin"
+  address:
+    street1: "4601 Fairview Drive"
+    city: "Austin"
+    state: "TX"
+    zip: "78731"
+  phone: "(512) 458-4154"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/AUSTIN/Pages/NRH_Default.aspx"
+  coordinates: 30°19'29.5"N 97°45'40.9"W
+- name: "NOSC Corpus Christi"
+  address:
+    street1: "1430 DIMMIT DR STE 140"
+    city: "CORPUS CHRISTI"
+    state: "TX"
+    zip: "78419"
+  phone: "(361) 961-2243"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/CORPUS_CHRISTI/Pages/NRH_Default.aspx"
+  coordinates: 27°41'17.2"N 97°15'41.2"W
+- name: "NOSC El Paso"
+  address:
+    street1: "4810 POLLARD STREET"
+    city: "EL PASO"
+    state: "TX"
+    zip: "79930"
+  phone: "(915) 565-3993"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/EL_PASO/Pages/NRH_Default.aspx"
+  coordinates: 31°49'12.8"N 106°26'33.5"W
+- name: "NOSC Fort Worth"
+  address:
+    street1: "1803 DOOLITTLE AVE"
+    city: "FORT WORTH"
+    state: "TX"
+    zip: "76127"
+  phone: "(817) 782-1800"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/FORT_WORTH/Pages/NRH_DEFAULT.aspx"
+  coordinates: 32°46'30.9"N 97°25'24.4"W
+- name: "NOSC Gulfport"
+  address:
+    street1: "4901 CBC 3rd Street BLDG 114"
+    city: "Gulfport"
+    state: "MS"
+    zip: "39501"
+  phone: "866-502-1271"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/GULFPORT/Pages/NRH_Default.aspx"
+  coordinates: 30°22'21.9"N 89°07'27.1"W
+- name: "NOSC Harlingen"
+  address:
+    street1: "1300 West Teege Avenue"
+    city: "Harlingen"
+    state: "TX"
+    zip: "78550"
+  phone: "(956) 425-0404"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/HARLINGEN/Pages/NRH_Default.aspx"
+  coordinates: 26°11'48.9"N 97°42'32.6"W
+- name: "NOSC Houston"
+  address:
+    street1: "10949 Aerospace Ave"
+    city: "Houston"
+    state: "TX"
+    zip: "77034"
+  phone: "719-317-2221"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/HOUSTON/Pages/NRH_Default.aspx"
+  coordinates: 29°36'39.1"N 95°10'24.6"W
+- name: "NOSC Kansas City"
+  address:
+    street1: "3100 Emanuel Cleaver II Blvd"
+    city: "Kansas City"
+    state: "MO"
+    zip: "64130"
+  phone: "816-923-2341"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/KANSAS_CITY/Pages/NOSCKCMO.aspx"
+  coordinates: 39°02'30.9"N 94°32'56.3"W
+- name: "NOSC Little Rock"
+  address:
+    street1: "8005 CAMP ROBINSON ROAD"
+    city: "LITTLE ROCK"
+    state: "AR"
+    zip: "72118"
+  phone: "(501)771-1661"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/LITTLE_ROCK/Pages/NRH_Default.aspx"
+  coordinates: 34°49'11.5"N 92°16'36.4"W
+- name: "NOSC Meridian"
+  address:
+    street1: "434 Rosenbaum Ave"
+    city: "Meridian"
+    state: "MS"
+    zip: "39309"
+  phone: "(601) 679-3610"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/MERIDIAN/Pages/NRH_Default.aspx"
+  coordinates: 32°33'04.4"N 88°36'25.5"W
+- name: "NOSC New Orleans"
+  address:
+    street1: "400 Russell Ave Bldg. 492"
+    city: "New Orleans"
+    state: "LA"
+    zip: "70143"
+  phone: "(504) 678-8205"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/NEW_ORLEANS/Pages/NRH_Default.aspx"
+  coordinates: 29°49'37.7"N 90°01'20.7"W
+- name: "NOSC Oklahoma City"
+  address:
+    street1: "5316 S Douglas Blvd"
+    city: "Oklahoma City"
+    state: "OK"
+    zip: "73150"
+  phone: "405-733-1052"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/OKLAHOMA_CITY/Pages/NRH_default.aspx"
+  coordinates: 35°24'45.5"N 97°22'11.9"W
+- name: "NOSC San Antonio"
+  address:
+    street1: "3837 BINZ-ENGLEMANN ROAD"
+    city: "SAN ANTONIO"
+    state: "TX"
+    zip: "78219"
+  phone: "(210) 539-7253"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/SAN_ANTONIO/Pages/NRH_Default.aspx"
+  coordinates: 29°27'29.1"N 98°25'03.8"W
+- name: "NOSC Shreveport"
+  address:
+    street1: "1440 SWAN LAKE ROAD"
+    city: "BOSSIER CITY"
+    state: "LA"
+    zip: "71111"
+  phone: "(318) 746-9657"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/SHREVEPORT/Pages/NRH_Default.aspx"
+  coordinates: 32°32'16.1"N 93°40'16.1"W
+- name: "NOSC Springfield"
+  address:
+    street1: "1110 N Fremont Ave"
+    city: "Springfield"
+    state: "MO"
+    zip: "65802"
+  phone: "417-869-5721"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/SPRINGFIELD/Pages/NRH_default.aspx"
+  coordinates: 37°13'15.2"N 93°16'11.3"W
+- name: "NOSC St. Louis"
+  address:
+    street1: "10810 Lambert International Boulevard"
+    city: "Bridgeton"
+    state: "MO"
+    zip: "63044"
+  phone: "(314) 524-9500"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/ST_LOUIS/Pages/NHR_Default.aspx"
+  coordinates: 38°44'35.7"N 90°22'18.8"W
+- name: "NOSC Tulsa"
+  address:
+    street1: "8000 East New Orleans Street. Suite C"
+    city: "Broken Arrow"
+    state: "OK"
+    zip: "74012"
+  phone: "918-279-3700"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/TULSA/Pages/NRH_Default.aspx"
+  coordinates: 36°01'09.3"N 95°41'03.2"W
+- name: "NOSC Waco"
+  address:
+    street1: "2100 NORTH NEW ROAD"
+    city: "WACO"
+    state: "TX"
+    zip: "76707"
+  phone: "(254) 776-1962"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/WACO/Pages/NRH_Default.aspx"
+  coordinates: 31°32'50.2"N 97°11'11.0"W
+- name: "NOSC Wichita"
+  address:
+    street1: "3026 GEORGE WASHINGTON BLVD"
+    city: "WICHITA"
+    state: "KS"
+    zip: "67210"
+  phone: "(316) 683-3491"
+  region: "Navy Region Southeast (Fort Worth)"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/WICHITA/Pages/NRH_Default.aspx"
+  coordinates: 37°38'18.9"N 97°16'23.7"W
+- name: "NOSC Anchorage"
+  address:
+    street1: "733 D St"
+    city: "Anchorage"
+    state: "AK"
+    zip: "99505"
+  phone: "(907) 384-6525"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/ANCHORAGE/Pages/NRH_Default.aspx"
+  coordinates: 61°15'25.6"N 149°43'02.1"W
+- name: "NOSC Billings"
+  address:
+    street1: "2917 Gabel Rd"
+    city: "Billings"
+    state: "MT"
+    zip: "59102"
+  phone: "406-248-2090"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/BILLINGS/Pages/NRH_Default.aspx"
+  coordinates: 45°44'41.6"N 108°35'22.5"W
+- name: "NOSC Boise"
+  address:
+    street1: "4087 WEST HARVARD"
+    city: "BOISE"
+    state: "ID"
+    zip: "83705"
+  phone: "(208) 422-6232"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/BOISE/Pages/NRH_Default.aspx"
+  coordinates: 43°33'24.3"N 116°13'56.1"W
+- name: "NOSC Cheyenne"
+  address:
+    street1: "5609 RANDALL AVE BLDG 245"
+    city: "CHEYENNE"
+    state: "WY"
+    zip: "82005"
+  phone: "(307) 773-6500"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/CHEYENNE/Pages/NRH_Default.aspx"
+  coordinates: 41°08'54.9"N 104°50'43.1"W
+- name: "NOSC Des Moines"
+  address:
+    street1: "47 DICKMAN ROAD"
+    city: "DES MOINES"
+    state: "IA"
+    zip: "50315"
+  phone: "(515) 285-5581"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/DES_MOINES/Pages/NRH_Default.aspx"
+  coordinates: 41°31'31.2"N 93°36'52.6"W
+- name: "NOSC Everett"
+  address:
+    street1: "2000 WEST MARINE VIEW DR. BLDG 2106"
+    city: "Everett"
+    state: "WA"
+    zip: "98207"
+  phone: "425-304-4777"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/EVERETT/Pages/NRH_Default.aspx"
+  coordinates: 47°59'36.8"N 122°13'03.0"W
+- name: "NOSC Fargo"
+  address:
+    street1: "3920 31st St N Suite B"
+    street1: "Suite B"
+    city: "Fargo"
+    state: "ND"
+    zip: "58102"
+  phone: "701-232-3689"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/FARGO/Pages/NRH_Default.aspx"
+  coordinates: 46°55'56.4"N 96°49'35.8"W
+- name: "NOSC Helena"
+  address:
+    street1: "2090 USS HELENA DR"
+    city: "FORT HARRISON"
+    state: "MT"
+    zip: "59636"
+  phone: "406-449-5725"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/HELENA/Pages/NRH_Default.aspx"
+  coordinates: 46°37'18.2"N 112°06'09.5"W
+- name: "NOSC Kitsap"
+  address:
+    street1: "125 SOUTH DEWEY ST BLDG 1013"
+    city: "BREMERTON"
+    state: "WA"
+    zip: "98314"
+  phone: "(360) 627-2213"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/KITSAP/Pages/NRH_Default.aspx"
+  coordinates: 47°33'46.8"N 122°38'48.6"W
+- name: "NOSC Minneapolis"
+  address:
+    street1: "5905 34th Ave"
+    city: "Minneapolis"
+    state: "MN"
+    zip: "55450"
+  phone: "612-713-4847"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/MINNEAPOLIS/Pages/NRH_Default.aspx"
+  coordinates: 44°53'48.4"N 93°13'13.6"W
+- name: "NOSC Omaha"
+  address:
+    street1: "702 Nelson Drive"
+    city: "Offutt AFB"
+    state: "NE"
+    zip: "68113"
+  phone: "402-232-0090"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/OMAHA/Pages/NRH_Default.aspx"
+  coordinates: 41°07'53.2"N 95°54'56.5"W
+- name: "NOSC Portland"
+  address:
+    street1: "6735 NORTH BASIN AVENUE"
+    city: "PORTLAND"
+    state: "OR"
+    zip: "97217"
+  phone: "503-285-4566"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/PORTLAND/Pages/NRH_Default.aspx"
+  coordinates: 45°34'16.2"N 122°43'09.5"W
+- name: "NOSC Sioux Falls"
+  address:
+    street1: "4400 N. NORTHVIEW AVE"
+    city: "SIOUX FALLS"
+    state: "SD"
+    zip: "57107"
+  phone: "(605)336-2402"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/SIOUX_FALLS/Pages/NRH_Default.aspx"
+  coordinates: 43°35'45.8"N 96°45'53.5"W
+- name: "NOSC Spokane"
+  address:
+    street1: "5101 N. Assembly St"
+    city: "Spokane"
+    state: "WA"
+    zip: "99205"
+  phone: "(509) 327-3346"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/SPOKANE/Pages/NRH_Default.aspx"
+  coordinates: 47°42'18.8"N 117°28'38.7"W
+- name: "NOSC Springfield"
+  address:
+    street1: "3106 Pierce Parkway"
+    city: "Springfield"
+    state: "OR"
+    zip: "97477"
+  phone: "541-463-7268"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/Springfield_OR/Pages/NRH_Default.aspx"
+  coordinates: 44°03'56.3"N 122°58'43.9"W
+- name: "NOSC Whidbey Island"
+  address:
+    street1: "1045 MIDWAY STREET"
+    city: "OAK HARBOR"
+    state: "WA"
+    zip: "98278"
+  phone: "360-632-7463"
+  region: "Navy Region Northwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/WHIDBEY_ISLAND/Pages/NRH_Default.aspx"
+  coordinates: 48°20'15.4"N 122°40'18.9"W
+- name: "NOSC Alameda"
+  address:
+    street1: "2144 CLEMENT AVENUE"
+    city: "ALAMEDA"
+    state: "CA"
+    zip: "94501"
+  phone: "(510) 814-2605"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/ALAMEDA/Pages/NRH_default.aspx"
+  coordinates: 37°46'24.3"N 122°14'42.5"W
+- name: "NOSC Albuquerque"
+  address:
+    street1: "8810 S STREET S.E. BLDG. 20616"
+    city: "ALBUQUERQUE"
+    state: "NM"
+    zip: "87117"
+  phone: "(505) 853-1154"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/ALBUQUERQUE/Pages/NRH_default.aspx"
+  coordinates: 35°02'09.1"N 106°32'56.5"W
+- name: "NOSC Denver"
+  address:
+    street1: "7 N. SNOWMASS STREET BLDG 1301"
+    city: "BUCKLEY AFB"
+    state: "CO"
+    zip: "80011"
+  phone: "720.847.6205"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/DENVER/Pages/NRH_default.aspx"
+  coordinates: 39°43'00.4"N 104°44'38.2"W
+- name: "NOSC Fort Carson"
+  address:
+    street1: "3040 O'Connell Blvd Bldg 8932"
+    city: "Fort Carson"
+    state: "CO"
+    zip: "80913"
+  phone: "(719) 526-2964"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/FORT_CARSON/Pages/NRH_default.aspx"
+  coordinates: 38°45'22.4"N 104°46'17.3"W
+- name: "NOSC Guam"
+  address:
+    street1: "PSC 455 BOX 186 FPO AP"
+    city: ""
+    state: "Guam"
+    zip: "96540"
+  phone: "671-339-6724"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/GUAM/Pages/NRH_default.aspx"
+  coordinates: 13°26'23.1"N 144°38'58.5""E"
+- name: "NOSC Las Vegas"
+  address:
+    street1: "5095 Range Rd. BLDG 1032"
+    city: "Las Vegas"
+    state: "NV"
+    zip: "89115"
+  phone: "719-317-4398"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/LAS_VEGAS/Pages/NRH_default.aspx"
+  coordinates: 36°15'10.0"N 115°02'58.9"W
+- name: "NOSC Lemoore"
+  address:
+    street1: "910 HANCOCK AVE"
+    city: "LEMOORE"
+    state: "CA"
+    zip: "93245"
+  phone: "559-998-3778"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/LEMOORE/Pages/NRH_default.aspx"
+  coordinates: 36°15'52.6"N 119°53'55.8"W
+- name: "NOSC Los Angeles"
+  address:
+    street1: "5631 Rickenbacker Road"
+    city: "Bell"
+    state: "CA"
+    zip: "90201"
+  phone: "(719) 317-8099"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/LOS_ANGELES/Pages/NRH_default.aspx"
+  coordinates: 33°59'27.1"N 118°09'52.1"W
+- name: "NOSC Riverside"
+  address:
+    street1: "23570 Z STREET"
+    city: "RIVERSIDE"
+    state: "CA"
+    zip: "92518"
+  phone: "(951)656-1199"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/MORENO_VALLEY/Pages/NRH_default.aspx"
+  coordinates: 33°54'26.5"N 117°15'00.6"W
+- name: "NOSC North Island"
+  address:
+    street1: "Bldg 251, I-3rd St"
+    city: "Coronado"
+    state: "CA"
+    zip: "92135"
+  phone: "619-302-1954"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/NORTH_ISLAND/Pages/NRH_default.aspx"
+  coordinates: 32°41'59.7"N 117°10'58.5"W
+- name: "NOSC Pearl Harbor"
+  address:
+    street1: "400 Fuller Way, BLDG 279"
+    street2: "BLDG 279"
+    city: "Pearl Harbor"
+    state: "HI"
+    zip: "96860"
+  phone: "808-471-0091"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/PEARL_HARBOR/Pages/NRH_default.aspx"
+  coordinates: 21°20'48.6"N 157°57'22.9"W
+- name: "NOSC Phoenix"
+  address:
+    street1: "14160 West Marauder St. Bldg 300"
+    city: "Luke Air Force Base"
+    state: "AZ"
+    zip: "85309"
+  phone: "(602) 484-7292"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/PHOENIX/Pages/NRH_default.aspx"
+  coordinates: 33°32'39.6"N 112°21'49.4"W
+- name: "NOSC Reno"
+  address:
+    street1: "4601 Cocoa Ave"
+    city: "Reno"
+    state: "NV"
+    zip: "89506"
+  phone: "(775) 971-6289"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/RENO/Pages/NRH_default.aspx"
+  coordinates: 39°39'22.9"N 119°52'14.3"W
+- name: "NOSC Sacramento"
+  address:
+    street1: "8277 ELDER CREEK ROAD"
+    city: "SACRAMENTO"
+    state: "CA"
+    zip: "95828"
+  phone: "(916) 387-7100"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/SACRAMENTO/Pages/NRH_default.aspx"
+  coordinates: 38°30'42.2"N 121°23'58.4"W
+- name: "NOSC Salt Lake City"
+  address:
+    street1: "116 Pollock Road"
+    city: "Salt Lake City"
+    state: "UT"
+    zip: "84093"
+  phone: "(801)-736-4200"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/SALT_LAKE_CITY/Pages/NRH_default.aspx"
+  coordinates: 40°45'41.1"N 111°49'53.4"W
+- name: "NOSC San Diego"
+  address:
+    street1: "9955 Pomerado Rd"
+    city: "San Diego"
+    state: "CA"
+    zip: "92131"
+  phone: "(858) 537-8040"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/SAN_DIEGO/Pages/NRH_default.aspx"
+  coordinates: 32°53'37.2"N 117°06'46.8"W
+- name: "NOSC San Jose"
+  address:
+    street1: "995 E Mission St."
+    city: "San Jose"
+    state: "CA"
+    zip: "95112"
+  phone: "408-294-3070"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/SAN_JOSE/Pages/NRH_default.aspx"
+  coordinates: 37°21'40.2"N 121°52'57.3"W
+- name: "NOSC Tucson"
+  address:
+    street1: "3655 SOUTH WILMOT ROAD"
+    city: "TUCSON"
+    state: "AZ"
+    zip: "85707"
+  phone: "(520) 228-6289"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/TUCSON/Pages/NRH_Default.aspx"
+  coordinates: 32°10'47.8"N 110°51'25.3"W
+- name: "NOSC Ventura County"
+  address:
+    street1: "951 23rd Ave. BLDG 1491"
+    city: "Port Hueneme"
+    state: "CA"
+    zip: "93043"
+  phone: "805-982-5770"
+  region: "Navy Region Southwest"
+  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/VENTURA_COUNTY/Pages/NRH_default.aspx"
+  coordinates: 34°10'07.5"N 119°12'32.8"W

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="single news">
+	<div id="intro-section">
+		<h1>{{ .Title }}</h1>
+		<div class="content">
+		{{ .Content }}
+		</div>
+	</div>
+	<div class="twitter-timeline general">
+		<a class="twitter-timeline general" href="https://twitter.com/TheReserveForce/lists/general-u-s-military?ref_src=twsrc%5Etfw">A Twitter List by TheReserveForce</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
+	<div class="twitter-timeline navy">
+		<a class="twitter-timeline" href="{{ .Page.Params.embedURL }}">A Twitter List by TheReserveForce</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
+</main>
+{{ end }}
+
+

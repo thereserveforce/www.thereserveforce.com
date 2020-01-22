@@ -1,0 +1,29 @@
+<header>
+	<nav id="main-nav">
+		<a class="site-title" href="{{ .Site.BaseURL  }}">
+			<img src="/assets/img/logos/logo-horizontal.svg" />
+		</a>
+		<a class="toggle"><span class="fas fa-bars"></span></a>
+		<ul class="menu h main">
+			<li><a href="{{ .Site.BaseURL  }}"><i class="fas fa-home"></i></a></li>
+			{{- $urlPart1 := print "/" (index (split .URL "/") 1) "/" -}}
+		{{ range .Site.Menus.main }}
+			<li class="{{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
+				<a href="{{ .URL }}">{{ .Name }}</a>
+			</li>
+		{{ end }}
+		</ul>
+	</nav>
+{{ if .Section }}
+	<nav id="branch-nav" class="{{ .Section }}">
+		<ul class="menu h branch">
+		{{ $curPage := . }}
+		{{ range index .Site.Menus .Section }}
+			<li class="{{ if in $curPage.Permalink .URL }}active{{end}}">
+				<a href="{{ .URL }}">{{ .Name }}</a>
+			</li>
+		{{ end }}
+		</ul>
+	</nav>
+{{ end }}
+</header>

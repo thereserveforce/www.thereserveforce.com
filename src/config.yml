@@ -1,0 +1,63 @@
+baseurl: "https://www.TheReserveForce.com/"
+title: "The Reserve Force"
+theme: thereserveforce-2019
+
+googleAnalytics: "UA-156661141-1"
+
+enableEmoji: true
+
+params:
+  description: "Online resources for U.S. military reservists. We got your back."
+  mailchimpURL: "//TheReserveForce.us19.list-manage.com/subscribe/post?u=7d0785042c911451e8e716e3b&amp;id=d42254f9f5"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - name: "All"
+      url: "/all/"
+      weight: -1
+    - name: "Navy"
+      url: "/navy/"
+      weight: 5
+    - name: "Army"
+      url: "/army/"
+      weight: 10
+  all:
+    - name: "TRF"
+      url: "/all/"
+      weight: -1
+    - name: "Benefits"
+      url: "/all/reserve-benefits/"
+      weight: 5
+    - name: "Pay Chart"
+      url: "/all/pay-chart/"
+      weight: 10
+    - name: "About"
+      url: "/all/about/"
+      weight: 15
+    - name: "Contact"
+      url: "/all/contact/"
+      weight: 20
+  navy:
+    - name: "USN"
+      url: "/navy/"
+      weight: -1
+    - name: "NOSCs"
+      url: "/navy/nosc/"
+      weight: 5
+    - name: "Important Links"
+      url: "/navy/important-links/"
+      weight: 10
+    - name: "Glossary"
+      url: "/navy/glossary/"
+      weight: 15
+    - name: "News"
+      url: "/navy/news/"
+      weight: 20
+    - name: "Calendar"
+      url: "/navy/calendar/"
+      weight: 25

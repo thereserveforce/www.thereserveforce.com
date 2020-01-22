@@ -1,0 +1,10 @@
+navy:
+  short: "navy"
+  full: "U.S. Navy"
+  acronym: "USN"
+  color: blue
+army:
+  short: "army"
+  full: "U.S. Army"
+  acronym: "USA"
+  color: green

@@ -1,0 +1,114 @@
+@import "colors";
+
+/* Rules without a media query present take affect when the webpage is 1,000px 
+ * or less. */
+main.list,
+main.single{
+}
+
+/************************************************
+ * <= 850px width
+ * *********************************************/
+@media(max-width: 900px){
+
+	#main-nav{
+		margin: 0 6%;
+		padding: 0;
+	}
+
+	main.list,
+	main.single{
+		margin: 40px 6% 0;
+	}
+}
+
+
+/************************************************
+ * <= 750px width
+ * *********************************************/
+@media(max-width: 750px){
+
+	#main-nav{
+		margin: 0 5%;
+
+		.site-title img{
+			height: 45%;
+		}
+	}
+
+	main.list,
+	main.single{
+		margin: 20px 5% 0;
+	}
+
+	form{
+		width: 75%;
+	}
+
+	form.slim{
+		input[type=email],
+		input[type=submit]{
+			display: block;
+			border-radius: 5px;
+			width: 100%;
+		}
+
+		input[type=email]{
+			border: 1px solid $tertiary-color;
+		}
+	}
+}
+
+
+/************************************************
+ * <= 600px width
+ * *********************************************/
+@media(max-width: 600px){
+
+	a.toggle{
+		display: block;
+		margin-right: 0px;
+		width: 66px;
+		text-align: center;
+		font-size: 2.2rem;
+	}
+
+	#main-nav ul{
+		display: none;
+
+		position: absolute;
+		top: 100%;
+		right: -6%;
+		border-top: 2px solid $navyColor;
+		background-color: white;
+		width: 200px;
+
+		li{
+			float: none;
+			text-align: center;
+
+			&.active{
+				border-left: 4px solid #cb1a20;
+				border-bottom: none !important;
+			}
+		}
+	}
+
+	main.list,
+	main.single{
+		h1{
+		}
+
+		.alignleft,
+		.aligncenter,
+		.alignright{
+			display: block;
+			margin: 0 auto;
+			float: none;
+		}
+	}
+
+	form{
+		width: 85%;
+	}
+}

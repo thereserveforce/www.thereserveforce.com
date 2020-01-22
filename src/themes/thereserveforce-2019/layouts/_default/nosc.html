@@ -1,0 +1,38 @@
+{{ define "main" }}
+<main class="single">
+	<div id="intro-section">
+		<h1>{{ .Title }}</h1>
+		<div class="content">
+		{{ .Content }}
+		</div>
+	</div>
+	<div id="nosc-list">
+		{{ $states := slice }}
+		{{ range .Site.Data.nosc }}
+			{{ $states = $states | append .address.state }}
+		{{ end }}
+		{{ $states = uniq $states | sort }}
+
+		<h2>NOSC list by states and territories</h2>
+		<ul>
+		{{ range $states }}
+			{{ $state := . }}
+			<li>{{ . }}
+			{{ range where $.Site.Data.nosc "address.state" $state }}
+				<ul>
+					<li>{{ .name }}
+						<ul>
+							<li>{{ .phone }}</li>
+							<li>{{ .address.street1 }}<br />
+								{{ .address.city }} {{ .address.state }}, {{ .address.zip }}</li>
+						</ul>
+					</li>
+				</ul>
+			{{ end }}
+			</li>
+		{{ end }}
+		</ul>
+
+	</div>
+</main>
+{{ end }}

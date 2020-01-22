@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="single">
+	<div id="intro-section">
+		<h1>{{ .Title }}</h1>
+		<div class="content">
+		{{ .Content }}
+		</div>
+	</div>
+	<div id="glossary-list">
+		<dl>
+		{{ range .Site.Data.glossary }}
+			<dt>{{ .term }}</dt>
+			{{ if ne .acronym "" }}<dt>{{ .acronym }}</dt>{{ end }}
+			<dd>{{ .definition }}</dd>
+		{{ end }}
+		</dl>
+	</div>
+</main>
+{{ end }}
