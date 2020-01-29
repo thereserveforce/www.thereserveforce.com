@@ -3,15 +3,28 @@ version: 2.1
 workflows:
   main:
     jobs:
-      - build
-      - deploy:
-          requires:
-            - build
+      - buildProduction:
           filters:
             branches:
               only: master
+      - buildStaging:
+          filters:
+            branches:
+              ignore: master
+      - deployProduction:
+          requires:
+            - buildProduction
+          filters:
+            branches:
+              only: master
+      - deployStaging:
+          requires:
+            - buildStaging
+          filters:
+            branches:
+              ignore: master
 jobs:
-  build:
+  buildProduction:
     docker:
       - image: cibuilds/hugo:0.63
     steps:
@@ -26,7 +39,22 @@ jobs:
           root: src
           paths:
             - public
-  deploy:
+  buildStaging:
+    docker:
+      - image: cibuilds/hugo:0.63
+    steps:
+      - checkout
+      - run:
+          name: "Build Website With Hugo"
+          command: HUGO_ENV=staging hugo -v -s src/ --config config.yml,staging-config.yml
+      - run:
+          name: "Test Website"
+          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - persist_to_workspace:
+          root: src
+          paths:
+            - public
+  deployProduction:
     docker:
       - image: cibuilds/hugo:0.63
     steps:
@@ -36,3 +64,13 @@ jobs:
       - run: |
           echo 'sweb0.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHyIA/VJN9GHUeYUvauk+sGsQcvk8FpXErixwvgqQmW1pdje/Vo4RyAAskzdgoR+HUYOWM1gLW7ZFZHL8F//sqw=' >> ~/.ssh/known_hosts
           rsync -va --delete src/public/ root@sweb0.revidian.net:/static-websites/thereserveforce/www/public_html
+  deployStaging:
+    docker:
+      - image: cibuilds/hugo:0.63
+    steps:
+      - attach_workspace:
+          at: src
+      - add_ssh_keys
+      - run: |
+          echo 'sweb0.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHyIA/VJN9GHUeYUvauk+sGsQcvk8FpXErixwvgqQmW1pdje/Vo4RyAAskzdgoR+HUYOWM1gLW7ZFZHL8F//sqw=' >> ~/.ssh/known_hosts
+          rsync -va --delete src/public/ root@sweb0.revidian.net:/static-websites/thereserveforce/staging-www/public_html
