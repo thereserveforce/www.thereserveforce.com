@@ -9,6 +9,7 @@ body{
 	font-size: 1.8rem;
 
 	a{
+		color: $primary-color;
 	}
 }
 
@@ -29,12 +30,13 @@ body > header{
 	ul.menu li.active > a{
 		font-weight: bold;
 	}
+
+	nav.section,
+	nav.section a{
+		color: white;
+	}
 }
 
-#branch-nav,
-#branch-nav a{
-	color: white;
-}
 
 main{
 	h1,
@@ -46,6 +48,7 @@ main{
 
 	h1{
 		text-align: center;
+		text-decoration: none;
 		font-size: 4.5rem;
 	}
 
@@ -60,7 +63,6 @@ main{
 	}
 
 	a.continue{
-		color: #FFFFFF;
 		font-weight: bold;
 	}
 

@@ -37,9 +37,12 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 20
+    - name: "Blog"
+      url: "/blog/"
+      weight: 25
     - name: "Contact Us"
       url: "/contact/"
-      weight: 20
+      weight: 30
   all:
     - name: "TRF"
       url: "/all/"
@@ -69,3 +72,13 @@ menu:
     - name: "Calendar"
       url: "/navy/calendar/"
       weight: 25
+  blog:
+    - name: "Blog"
+      url: "/blog/"
+      weight: -1
+    - name: "Latest Posts"
+      url: "/blog/"
+      weight: 5
+    - name: "Submit Ideas"
+      url: "/blog/submit-ideas"
+      weight: 15
