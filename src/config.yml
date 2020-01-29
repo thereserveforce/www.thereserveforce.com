@@ -37,9 +37,12 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 20
+    - name: "Blog"
+      url: "/blog/"
+      weight: 25
     - name: "Contact Us"
       url: "/contact/"
-      weight: 20
+      weight: 30
   all:
     - name: "TRF"
       url: "/all/"
