@@ -26,7 +26,7 @@ body > header{
 		text-decoration: none;
 	}
 
-	ul.menu li.active a{
+	ul.menu li.active > a{
 		font-weight: bold;
 	}
 }
