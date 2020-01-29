@@ -10,6 +10,19 @@ $(document).ready(function(){
 		$( "body > header ul.main" ).toggle();
 	});
 
+	// Toggle subnavs
+	$( "ul.menu li.parent" ).click( function(){
+		
+		event.stopPropagation();
+		$( this ).children( "ul.sub.menu" ).toggle();
+		$( "ul.menu li.parent" ).toggleClass( "opened closed" );
+	});
+	$( "ul.menu li.parent" ).hover( function(){
+
+		if( $( "body > header a.toggle" ).is( ":visible" ) ){ return; }
+
+		$( this ).click();
+	});
 
 	$( document ).click( function( event ){
 

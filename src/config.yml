@@ -17,15 +17,29 @@ markup:
 
 menu:
   main:
-    - name: "All"
-      url: "/all/"
+    - identifier: branches
+      name: "Branches"
       weight: -1
-    - name: "Navy"
-      url: "/navy/"
+    - parent: branches
+      name: "All Branches"
+      url: "/all/"
       weight: 5
-    - name: "Army"
-      url: "/army/"
+    - parent: branches
+      pre: '<span class="fas fa-anchor"></span>'
+      name: "Navy"
+      url: "/navy/"
       weight: 10
+    - parent: branches
+      pre: '<span class="fas fa-chevron-circle-up"></span>'
+      name: "Army"
+      url: "/army/"
+      weight: 15
+    - name: "About"
+      url: "/about/"
+      weight: 20
+    - name: "Contact Us"
+      url: "/contact/"
+      weight: 20
   all:
     - name: "TRF"
       url: "/all/"
@@ -36,12 +50,6 @@ menu:
     - name: "Pay Chart"
       url: "/all/pay-chart/"
       weight: 10
-    - name: "About"
-      url: "/all/about/"
-      weight: 15
-    - name: "Contact"
-      url: "/all/contact/"
-      weight: 20
   navy:
     - name: "USN"
       url: "/navy/"

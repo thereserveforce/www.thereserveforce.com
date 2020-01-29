@@ -8,9 +8,30 @@
 			<li><a href="{{ .Site.BaseURL  }}"><i class="fas fa-home"></i></a></li>
 			{{- $urlPart1 := print "/" (index (split .URL "/") 1) "/" -}}
 		{{ range .Site.Menus.main }}
-			<li class="{{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
-				<a href="{{ .URL }}">{{ .Name }}</a>
-			</li>
+			{{ if .HasChildren }}
+				<li class="parent closed {{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
+					<a href="#">
+						{{ .Pre }}
+						<span>{{ .Name }}</span>
+						<span class="state up fas fa-chevron-down"></span>
+						<span class="state down fas fa-chevron-up"></span>
+					</a>
+					<ul class="menu v sub">
+					{{ range .Children }}
+						<li class="{{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
+							<a href="{{ .URL }}">
+								{{ .Pre }}
+								<span>{{ .Name }}</span>
+							</a>
+						</li>
+					{{ end }}
+					</ul>
+				</li>
+			{{ else }}
+				<li class="{{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
+					<a href="{{ .URL }}">{{ .Name }}</a>
+				</li>
+			{{ end }}
 		{{ end }}
 		</ul>
 	</nav>
