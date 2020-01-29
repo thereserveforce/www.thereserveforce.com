@@ -12,7 +12,7 @@ tags:
 
 I maintain a few Snap packages (installable Linux software packages) and I've been very interested in the metrics that [Snapcraft][snapcraft] (the Snap Store) provides.
 It's a (minor) indicator of how large the snap user base is (or at least growth) as well as how useful a snap may or may not be.
-In October of 2018 I started this [Linux Snap Package Metrics](/blog/october-2018-snap-metrics/) series and I'm trying to report back every month with the numbers until someone tells me otherwise :smile:.
+In October of 2018 I started this [Linux Snap Package Metrics](/blog/) series and I'm trying to report back every month with the numbers until someone tells me otherwise :smile:.
 
 Here's the metrics for snaps I maintain for the past month:
 
