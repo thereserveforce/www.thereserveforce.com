@@ -2,7 +2,7 @@
 <main class="list">
 	<h1>{{ .Title }}</h1>
 	{{ if .Content }}<div class="content-body">{{ .Content }}</div>{{ end }}
-	{{ range (.Paginate .Pages.ByDate.Reverse).Pages }}
+	{{ range where (.Paginate .Pages.ByDate.Reverse).Pages "Type" "blog" }}
 		<article id="{{ .UniqueID }}">
 			<header>
 				<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
@@ -12,7 +12,7 @@
 			<div class="content">
 				{{ .Summary }}
 			{{ if .Truncated }}
-				<a class="continue" href="{{ .Permalink }}">continue&nbsp;reading&nbsp;→</a>
+				<a class="read-more" href="{{ .Permalink }}">continue&nbsp;reading</a>
 			{{ end }}
 			</div>
 			<footer>

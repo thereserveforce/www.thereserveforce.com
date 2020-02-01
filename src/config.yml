@@ -72,3 +72,13 @@ menu:
     - name: "Calendar"
       url: "/navy/calendar/"
       weight: 25
+  blog:
+    - name: "Blog"
+      url: "/blog/"
+      weight: -1
+    - name: "Latest Posts"
+      url: "/blog/"
+      weight: 5
+    - name: "Submit Ideas"
+      url: "/blog/submit-ideas"
+      weight: 15

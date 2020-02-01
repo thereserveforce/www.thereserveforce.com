@@ -1,9 +1,12 @@
 ---
-title: "Contact Us"
+title: "Submit Ideas"
+type: page
 ---
 
-You can contact us via social media on [Twitter](https://twitter.com/TheReserveForce) and [Facebook](https://facebook.com/TheReserveForce)
-You can also fill out the form below and we'll get back to you via email.
+Is there something specific you'd like us to write about?
+Perhaps there's something happening in the news right now or a new DoD regulation coming down that you want to tell us about?
+
+Whatever it is we'd love for you to get in touch!
 
 <form action="https://formspree.io/ricardo@thereserveforce.com" method="POST">
 	<label for="name">Name:</label>

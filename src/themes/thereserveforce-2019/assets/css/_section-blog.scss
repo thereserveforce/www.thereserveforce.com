@@ -1,7 +1,19 @@
+main.list,
+main.single{
+
+	h2 a{
+		text-decoration: none;
+	}
+}
+
 main.list{
 	article{
 		margin-top: 30px;
 		border-top: 1px solid #333333;
+
+		&:first-of-type{
+			border-top: none;
+		}
 	}
 
 	h2{
@@ -11,6 +23,14 @@ main.list{
 	footer{
 		text-align: right;
 	}
+
+	a.read-more{
+		display: inline-block;
+		background-color: $primary-color;
+		padding: 4px 6px;
+		color: white;
+		text-decoration: none;
+	}	
 }
 
 main.single{
