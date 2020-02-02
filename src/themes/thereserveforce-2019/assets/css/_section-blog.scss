@@ -20,16 +20,19 @@ main.list{
 		margin-bottom: 0;
 	}
 
+	.content p:last-of-type{
+		display: inline;
+	}
+
 	footer{
 		text-align: right;
 	}
 
 	a.read-more{
-		display: inline-block;
-		background-color: $primary-color;
-		padding: 4px 6px;
-		color: white;
-		text-decoration: none;
+
+		.fa-chevron-right{
+			font-size: smaller;
+		}
 	}	
 }
 
@@ -46,6 +49,10 @@ main.single{
 
 	img.feature{
 		margin-top: 20px;
+	}
+
+	article .content{
+		margin: 15px 8% 0;
 	}
 
 	footer{
