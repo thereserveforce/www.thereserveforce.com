@@ -212,10 +212,6 @@ div.share-buttons{
 			background-color: #1DA1F2;
 		}
 
-		&.hacker-news{
-			background-color: #FF6600;
-		}
-
 		&.reddit{
 			background-color: #FF4500;
 		}
@@ -227,5 +223,10 @@ div.share-buttons{
 		&.linkedin{
 			background-color: #0077B5;
 		}
+
+		&.email{
+			background-color: #FF6600;
+		}
+
 	}
 }
