@@ -1,6 +1,6 @@
 ---
 title: "Quick Tip: Create a CircleCI Baseline Build on New Branches"
-author: FelicianoTech
+author: felicianotech
 date: 2020-01-10T17:45:00-05:00
 categories:
   - "tips"
