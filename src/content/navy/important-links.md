@@ -15,6 +15,7 @@ Links with a key (<span class="fas fa-key"></span>) means that the website requi
 - [Milconnect](https://milconnect.dmdc.osd.mil/milconnect/) <span class="fas fa-key"></span> - Update DEERs, Tricare, update SGLI.
 - [Military CAC](http://militarycac.com/index.htm) - Helpful website to resolve issues related to CAC-enabled websites at home.
 - [MyPay](https://mypay.dfas.mil/mypay.aspx) - View LES (leave and earnings statements).
+- [MyNavy Portal] (https://my.navy.mil/) <span class="fas fa-key"></span> - Navy portal.
 - [Navy eLearning](https://learning.nel.navy.mil/) <span class="fas fa-key"></span> - Complete GMTs, correspondence courses, PMK-EE, etc.
 - [Navy Personnel Command](https://www.public.navy.mil/bupers-npc/Pages/default.aspx)
 - [Navy Reserve Homeport](https://private.navyreserve.navy.mil/) <span class="fas fa-key"></span> - General homeport for the Navy Reserve (EMAIL certificate required).
