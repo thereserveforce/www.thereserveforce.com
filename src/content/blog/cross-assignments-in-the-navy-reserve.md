@@ -1,14 +1,12 @@
 ---
 title: "Cross-Assignments in the Navy Reserve"
 author: raven
-date: 2020-02-03T18:00:00-05:00
+date: 2020-02-29T15:30:00-05:00
 categories:
   - "navy"
 tags:
   - military
 ---
-
-
 
 The Navy Reserve has so many complex processes and one that is commonly confusing to most Sailors (mainly because there is limited information available on the topic) is cross-assignments. Here's how they work in the Navy.
 
