@@ -27,7 +27,7 @@ Veteran healthcare and suicide prevention are top issues in my mind.
 The majority of the resources that we do get tend to cater to active duty.
 This leaves reservists to fend for themselves.
 A great reserve unit will help but there aren't many of those around leaving gaps in knowledge and support for reservist.
-The Resource Force aims to fill those gaps and bring the reserve component up to the same spotlight that active duty enjoys.
+The Reserve Force aims to fill those gaps and bring the reserve component up to the same spotlight that active duty enjoys.
 
 
 ## What's Next?
