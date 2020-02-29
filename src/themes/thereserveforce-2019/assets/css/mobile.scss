@@ -57,6 +57,31 @@ main.single{
 			border: 1px solid $tertiary-color;
 		}
 	}
+
+	div.share-buttons{
+		top: auto;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		display: flex;
+
+		div,
+		a{
+			width: 100%;
+		}
+
+		div.share-down{
+			display: none;
+		}
+
+		div.share-right{
+			display: block;
+		}
+	}
+
+	body.section-blog{
+		padding-bottom: 48px; /* Make space for social share buttons. */
+	}
 }
 
 

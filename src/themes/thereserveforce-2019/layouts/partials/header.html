@@ -36,7 +36,7 @@
 		</ul>
 	</nav>
 {{ if .Section }}
-	<nav id="branch-nav" class="{{ .Section }}">
+	<nav class="section {{ .Section }}">
 		<ul class="menu h branch">
 		{{ $curPage := . }}
 		{{ range index .Site.Menus .Section }}

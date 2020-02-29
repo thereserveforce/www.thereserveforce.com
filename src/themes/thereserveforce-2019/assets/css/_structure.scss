@@ -83,7 +83,12 @@ a.toggle{
 	}
 }
 
-#branch-nav{
+body > header nav.section{
+	background-color: $primary-color; /* default color */
+	padding: 0 20px;
+	height: 50px;
+	line-height: 50px;
+
 	&.all{
 		background-color: $allColor;
 	}
@@ -96,9 +101,9 @@ a.toggle{
 		background-color: $armyColor;
 	}
 
-	padding: 0 20px;
-	height: 50px;
-	line-height: 50px;
+	&.blog{
+		background-color: $allColor;
+	}
 
 	ul{
 		width: 100%;
@@ -131,10 +136,6 @@ main.single{
 
 	img{
 		max-width: 100%;
-	}
-
-	article .content{
-		margin: 15px 8% 0;
 	}
 }
 
@@ -195,6 +196,10 @@ body > footer{
 //-------------------------------------
 // Sections & Types
 //-------------------------------------
+body.section-blog{
+	@import "section-blog";
+}
+
 body.section-navy{
 	@import "section-navy";
 }

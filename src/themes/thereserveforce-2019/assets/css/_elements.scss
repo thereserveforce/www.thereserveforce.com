@@ -4,7 +4,7 @@ pre code{
 	padding: 2px 6px;
 	color: #1C1C1C;
 	font-family: monospace;
-	white-space: pre;
+	white-space: pre-wrap;
 }
 pre code{
 	display: block;
@@ -165,5 +165,68 @@ div.search-box{
 		top: 12px;
 		right: 8px;
 		color: grey;
+	}
+}
+
+div.share-buttons{
+	position: fixed;
+	top: 50%;
+	left: 0;
+	margin-top: -96px;
+	text-align: center;
+
+	div,
+	a{
+		display: block;
+		width: 48px;
+		height: 48px;
+		line-height: 48px;
+	}
+
+	div{
+		background-color: white;
+		color: black;
+		font-size: 1.4rem;
+
+		&.share-down{
+			padding-top: 10px;
+			line-height: 15px;
+		}
+
+		&.share-right{
+			display: none;
+		}
+	}
+
+	a{
+		color: white;
+		font-size: 2.0rem;
+		transition: width 1s;
+
+		&:hover{
+			width: 64px;
+			transition: width 500ms;
+		}
+
+		&.twitter{
+			background-color: #1DA1F2;
+		}
+
+		&.reddit{
+			background-color: #FF4500;
+		}
+
+		&.facebook{
+			background-color: #3B5998;
+		}
+
+		&.linkedin{
+			background-color: #0077B5;
+		}
+
+		&.email{
+			background-color: #FF6600;
+		}
+
 	}
 }
