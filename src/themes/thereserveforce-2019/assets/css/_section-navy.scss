@@ -3,3 +3,49 @@ main.list{
 
 main.single{
 }
+
+#nosc-search{
+	div{
+		display: inline;
+	}
+
+	input{
+		display: inline;
+		width: 40%;
+	}
+}
+
+#nosc-map{
+	height: 600px;
+}
+
+#nosc-list{
+
+	nav{
+		li{
+			display: inline-block;
+		}
+	}
+
+	> ul{
+		display: flex;
+		flex-wrap: wrap;
+		width: 100%;
+		list-style-type: none;
+
+		> li{
+			width: 33%;
+			min-width: 300px;
+
+			.name{
+				font-weight: bold;
+			}
+
+			ul{
+				margin-bottom: 20px;
+				padding: 0;
+				list-style-type: none;
+			}
+		}
+	}
+}

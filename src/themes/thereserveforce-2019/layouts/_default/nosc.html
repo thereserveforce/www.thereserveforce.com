@@ -1,4 +1,5 @@
 {{ define "main" }}
+
 <main class="single">
 	<div id="intro-section">
 		<h1>{{ .Title }}</h1>
@@ -6,6 +7,58 @@
 		{{ .Content }}
 		</div>
 	</div>
+	<form id="nosc-search">
+		<div>
+			<input id="nosc-search-name" name="zip" type="text" placeholder="5-digit zip code" />
+			<button id="zip-button">search</button>
+		</div>
+		or
+		<button id="use-location">use my location</button>
+	</form>
+	<div id="nosc-map"></div>
+	<script type="text/JavaScript">
+		var mymap = L.map('nosc-map').setView([39.381266, -97.922211], 4);
+		L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+	    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+	    maxZoom: 18,
+	    id: 'mapbox/streets-v11',
+	    tileSize: 512,
+	    zoomOffset: -1,
+	    accessToken: 'pk.eyJ1IjoiZmVsaWNpYW5vdGVjaCIsImEiOiJjazdvN2huYXkwMHo1M21tdmFrOTJwaDNxIn0.JWM_U33mNR5rpjObB3LSaQ'
+	}).addTo(mymap);
+		{{ range $.Site.Data.nosc }}
+			var marker = L.marker([{{ .coordinates.lat }}, {{ .coordinates.long }}]).addTo(mymap);
+			marker.bindPopup( "{{ .name }}<br /><a href='#{{ .name | urlize }}'>more info</a>" );
+		{{ end }}
+		
+		function navigateToZip( zipcode, map ){
+
+			$.getJSON( "/assets/js/zipcodes.json", function( data ){
+
+				$.each( data, function( key, zip ){
+					if( zip.zipcode == zipcode ){
+						mymap.flyTo( [zip.lat, zip.long], 8);
+						return false;
+					}
+				});
+			});
+		}
+
+		$( "#zip-button" ).click( function( event ){
+
+			var zipcode = $( "#nosc-search-name" ).val();
+
+			navigateToZip( zipcode, mymap );
+
+			event.preventDefault();
+		});
+
+		$( "#use-location" ).click( function( event ){
+
+			mymap.locate( {setView: true, maxZoom: 8} );
+			event.preventDefault();
+		});
+	</script>
 	<div id="nosc-list">
 		{{ $states := slice }}
 		{{ range .Site.Data.nosc }}
@@ -13,26 +66,29 @@
 		{{ end }}
 		{{ $states = uniq $states | sort }}
 
-		<h2>NOSC list by states and territories</h2>
-		<ul>
+		<h2>NOSC Directory</h2>
+		<nav><ul>
+		{{ range $states }}
+		<li><a href="#{{ . }}">{{ . }}</a></li>
+		{{ end }}
+		</ul></nav>
 		{{ range $states }}
 			{{ $state := . }}
-			<li>{{ . }}
+			{{ $stateName := (index $.Site.Data.states $state).name }}
+			{{/* The following if is for territories like Guam  */}}
+			<h3 id="{{ . }}">{{ . }}{{ with $stateName }} - {{ . }}{{ end }}</h3>
+			<ul>
 			{{ range where $.Site.Data.nosc "address.state" $state }}
-				<ul>
-					<li>{{ .name }}
-						<ul>
-							<li>{{ .phone }}</li>
-							<li>{{ .address.street1 }}<br />
-								{{ .address.city }} {{ .address.state }}, {{ .address.zip }}</li>
-						</ul>
-					</li>
-				</ul>
+				<li id="{{ .name | urlize }}"><span class="name">{{ .name }}</span>
+					<ul>
+						<li>{{ .phone }}</li>
+						<li>{{ .address.street1 }}<br />
+							{{ .address.city }} {{ .address.state }}, {{ .address.zip }}</li>
+					</ul>
+				</li>
 			{{ end }}
-			</li>
+			</ul>
 		{{ end }}
-		</ul>
-
 	</div>
 </main>
 {{ end }}

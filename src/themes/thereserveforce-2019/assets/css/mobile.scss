@@ -6,6 +6,10 @@ main.list,
 main.single{
 }
 
+#nosc-search{
+	width: 80%;
+}
+
 /************************************************
  * <= 850px width
  * *********************************************/
@@ -86,6 +90,20 @@ main.single{
 
 
 /************************************************
+ * <= 700px width
+ * *********************************************/
+@media(max-width: 700px){
+	#nosc-search{
+		width: 95%;
+	}
+
+	#nosc-map{
+		height: 400px !important;
+	}
+}
+
+
+/************************************************
  * <= 600px width
  * *********************************************/
 @media(max-width: 600px){
@@ -150,5 +168,37 @@ main.single{
 
 	form{
 		width: 85%;
+	}
+}
+
+
+/************************************************
+ * <= 550px width
+ * *********************************************/
+@media(max-width: 550px){
+	#nosc-search{
+		padding-bottom: 10px;
+		text-align: center;
+	}
+}
+
+
+/************************************************
+ * <= 450px width
+ * *********************************************/
+@media(max-width: 450px){
+	#nosc-search{
+		div{
+			display: block !important;;
+		}
+
+		input{
+			display: inline-block !important;
+			width: 70% !important;
+		}
+
+		button{
+			display: inline-block;
+		}
 	}
 }
