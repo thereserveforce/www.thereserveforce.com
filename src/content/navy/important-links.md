@@ -6,7 +6,7 @@ Here's a list of websites most Navy reservists will need.
 Links with a key (<span class="fas fa-key"></span>) means that the website requires CAC login.
 
 - [Bupers Online (BOL)](https://www.bol.navy.mil/) <span class="fas fa-key"></span> - View IMR, SRB, OMPF, PRIMS, etc.
-- [CANTRAC] (https://app.prod.cetars.training.navy.mil/cantrac/vol2.html) <span class="fas fa-key"></span> - View Navy schools.
+- [CANTRAC](https://app.prod.cetars.training.navy.mil/cantrac/vol2.html) <span class="fas fa-key"></span> - View Navy schools.
 - [Citibank](https://home.cards.citidirect.com/CommercialCard/ux/index.html#/login) - Manage your government travel credit card (GTCC).
 - [CMS-ID](https://www.cmsid.navy.mil/) <span class="fas fa-key"></span> - Apply for Navy Reserve billets.
 - [DTS](https://dtsproweb.defensetravel.osd.mil/dts-app/pubsite/all/view) <span class="fas fa-key"></span> - Travel authorizations, travel vouchers.
@@ -19,7 +19,7 @@ Links with a key (<span class="fas fa-key"></span>) means that the website requi
 - [Military CAC](http://militarycac.com/index.htm) - Helpful website to resolve issues related to CAC-enabled websites at home.
 - [MyPay](https://mypay.dfas.mil/mypay.aspx) - View LES (leave and earnings statements).
 - [MyNavy Portal](https://my.navy.mil/) <span class="fas fa-key"></span> - Navy portal.
-- [NavyCOOL] (https://www.cool.navy.mil/usn/index.htm) - Apply for funding for civilian credentials.
+- [NavyCOOL](https://www.cool.navy.mil/usn/index.htm) - Apply for funding for civilian credentials.
 - [Navy eLearning](https://learning.nel.navy.mil/) <span class="fas fa-key"></span> - Complete GMTs, correspondence courses, PMK-EE, etc.
 - [Navy Personnel Command](https://www.public.navy.mil/bupers-npc/Pages/default.aspx)
 - [Navy Reserve Homeport](https://private.navyreserve.navy.mil/) <span class="fas fa-key"></span> - General homeport for the Navy Reserve (EMAIL certificate required).
