@@ -36,6 +36,7 @@ In most cases, once you find out that you are cross-assigned, you should make co
 This breakdown can assist you with determining which unit is responsible for what. Please note that this is a general list and can change depending on your circumstance. Always work with your chain of command in both units to confirm.
 
 TRUIC
+
 - PHA
 - PFA
 - Medical/Dental
@@ -45,10 +46,12 @@ TRUIC
 - Travel Support
 - Reserve Pay
 - Billet Assignments
-- Supply - Uniforms and Berthing
+- Supply 
+- Uniforms and Berthing
 - Monthly drill
 
 UMUIC
+
 - Assigned orders (AT, IDTT, ADT, ADSW, etc)
 - FITREP/EVAL inputs
 - In-rate training
