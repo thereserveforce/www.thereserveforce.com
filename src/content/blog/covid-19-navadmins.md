@@ -3,7 +3,7 @@ title: "Navy COVID-19 Guidance"
 author: raven
 date: 2020-03-19T15:30:00-05:00
 categories:
-  - "navy"
+  - navy
 tags:
   - military
 ---
@@ -19,10 +19,10 @@ But don't take our word for it, the actual instruction is also included!
 
 ## March 19, 2020
 
-ALNAVRESFOR 009 / 20 – Increased Telework Opportunities (Pending Instruction)
+[ALNAVRESFOR 009 / 20](https://www.public.navy.mil/nrh/ALNAVRESFOR/ALNAVRESFOR%202020/2020%20ALNAVRESFOR%20CNRF/2020%20ALNAVRESFOR%20009%20CNRF-NAVY%20RESERVE%20ENHANCED%20TELECOMMUTING%20PROCEDURES.txt) – Increased Telework Opportunities
 
 * Commander, Navy Reserve Force (CNRF) has waived the normal telework administrative requirements.
-* Usually, in order to telework, a member must route a telework package that consists of training, a telework agreement, a telework eligibility checklist, and telework request form, and a Page 13 that is signed by their supervisor, OSO, and NRA CO. These will not be required through 11 May to allow Sailors to complete IDT via telework.
+* Usually, in order to telework, a member must route a telework package that consists of training, a telework agreement, a telework eligibility checklist, a telework request form, and a Page 13 that is signed by their supervisor, OSO, and NRA CO. These will not be required through 11 May to allow Sailors to complete IDT via telework.
 * Sailors who will complete IDTs via telework are reminded to use the “telework” drop-down option in EDM.
 
 ### Additionally:
