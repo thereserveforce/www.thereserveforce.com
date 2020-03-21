@@ -46,8 +46,7 @@ TRUIC
 - Travel Support
 - Reserve Pay
 - Billet Assignments
-- Supply 
-- Uniforms and Berthing
+- Supply - Uniforms and Berthing
 - Monthly drill
 
 UMUIC
