@@ -3,7 +3,7 @@ title: "Navy COVID-19 Guidance"
 author: raven
 date: 2020-03-19T15:30:00-05:00
 categories:
-  - "navy"
+  - navy
 tags:
   - military
 ---
