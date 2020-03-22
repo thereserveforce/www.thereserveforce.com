@@ -16,6 +16,13 @@ But don't take our word for it, the actual instruction is also included!
 
 ***Note: Since this is an on-going pandemic, this post will be updated as new guidance is put out. Check back to stay updated!***
 
+## March 21, 2020
+
+[NAVADMIN 080/20](https://www.public.navy.mil/bupers-npc/reference/messages/Documents/NAVADMINS/NAV2020/NAV20080.txt) - Navy Mitigation Measures in Response to Coronavirus Outbreak (Update 3)
+
+* Consolidates all NAVADMINs for ease of reference.
+* Adds guidance for an Authorized Departure (AD) of DoD eligible family members (EFMs) and civilian employees (Paragraph 3.H).
+
 
 ## March 19, 2020
 
