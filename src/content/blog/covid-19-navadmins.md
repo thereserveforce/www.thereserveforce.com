@@ -16,6 +16,30 @@ But don't take our word for it, the actual instruction is also included!
 
 ***Note: Since this is an on-going pandemic, this post will be updated as new guidance is put out. Check back to stay updated!***
 
+## March 24, 2020
+
+[NAVADMIN 083/20](https://www.public.navy.mil/bupers-npc/reference/messages/Documents/NAVADMINS/NAV2020/NAV20083.txt) - Restriction of Movement (ROM) Guidance
+
+* Requires all personnel returning from a Center for Disease Control and Prevention (CDC) Travel Health Notice (THN) Level 3 or Level 2 location perform a 14-day ROM. 
+* Service member should be restricted to their residence and limit close contact (within 6 feet of others).
+* A list of countries with a CDC THN of Level 3 or 2 can be found [here](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html).
+
+
+## March 23, 2020
+
+[ALNAV 029/20](https://www.public.navy.mil/bupers-npc/reference/messages/Documents/ALNAVS/ALN2020/ALN20029.txt) - State and Local Shelter-in-Place Orders Impact on DON Operations
+
+* In response to state and local governments that have issued shelter-in-place, stay-at-home, self-quarantine, curfews, etc.
+* To ensure continuity of operations, Commanders may direct that personnel under their command (to include active, reserve, civilian, and foreign military members) to continue to perform their official duties.
+* Federal law exempts military and federal civilian personnel from state and local government orders.
+
+[NAVADMIN 082/20](https://www.public.navy.mil/bupers-npc/reference/messages/Documents/NAVADMINS/NAV2020/NAV20082.txt) - Navy Transition Assistance Program (TAP) Policy Update
+
+* Announces immediate suspension of TAP in-person classes.
+* Service members who will be separating soon can complete TAP online via [Joint Knowledge Online (JKO)](https://jkodirect.jten.mil). Details can be found [here](https://webdm.dmdc.osd.mil/dodtap/virtual_curriculum.html)
+    * This also applies to reserve members on active duty orders greater than 179 days (paragraphs a and b of the NAVADMIN).
+    * Mobilized reservists who are within 60 days of redeployment or demobilization must complete TAP via JKO and present the certificate at ECRC.
+
 ## March 21, 2020
 
 [NAVADMIN 080/20](https://www.public.navy.mil/bupers-npc/reference/messages/Documents/NAVADMINS/NAV2020/NAV20080.txt) - Navy Mitigation Measures in Response to Coronavirus Outbreak (Update 3)
