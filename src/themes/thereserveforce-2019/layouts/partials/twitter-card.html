@@ -1,7 +1,7 @@
 {{ with .Params.feature }}
 <!-- Twitter summary card with large image must be at least 280x150px -->
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:image:src" content="{{ printf "/assets/img/feature/%s" . | absURL }}" />
+	<meta name="twitter:image:src" content="{{ printf "/media/blog/featured/%s" . | absURL }}" />
 {{ else }}
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:image:src" content="{{ "/assets/img/social/the-reserve-force.png" | absURL }}" />
