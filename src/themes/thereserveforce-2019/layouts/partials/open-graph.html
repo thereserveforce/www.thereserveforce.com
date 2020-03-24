@@ -3,7 +3,7 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ with .Params.feature }}
-	<meta property="og:image" content="{{ printf "/assets/img/feature/%s" . | absURL }}" />
+	<meta property="og:image" content="{{ printf "/media/blog/featured/%s" . | absURL }}" />
 {{ else }}
 	<meta property="og:image" content="{{ "/assets/img/social/the-reserve-force.png" | absURL }}" />
 {{ end }}
