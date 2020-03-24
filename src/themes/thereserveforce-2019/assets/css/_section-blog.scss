@@ -45,6 +45,10 @@ main.single{
 
 	img.feature{
 		margin-top: 20px;
+
+		&.medium{
+			width: 50%;
+		}
 	}
 
 	article .content{
