@@ -81,7 +81,7 @@
 			{{ range where $.Site.Data.nosc "address.state" $state }}
 				<li id="{{ .name | urlize }}"><span class="name">{{ .name }}</span>
 					<ul>
-						<li>{{ .phone }}</li>
+						<li><a href="tel:{{ .phone }}">{{ .phone }}</a></li>
 						<li>{{ .address.street1 }}<br />
 							{{ .address.city }} {{ .address.state }}, {{ .address.zip }}</li>
 					</ul>
