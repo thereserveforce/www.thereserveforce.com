@@ -56,4 +56,13 @@ $(document).ready(function(){
 
 		event.preventDefault();
 	});
+
+	if( $( window ).width() > 700 ){
+
+		$( "a[href^='tel']" ).each(function(){
+
+			var phoneNum = $( this ).html();
+			$( this ).replaceWith( "<span>" + phoneNum + "</span>");
+		});
+	}
 });

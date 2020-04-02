@@ -4,7 +4,7 @@
     city: "North Canton"
     state: "OH"
     zip: "44720"
-  phone: "(330)491-3450"
+  phone: "(330) 491-3450"
   region: "Navy Region Mid-Atlantic (Great Lakes)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/AKRON/Pages/NRH_Default.aspx"
   coordinates:
@@ -40,7 +40,7 @@
     city: "Great Lakes"
     state: "IL"
     zip: "60088"
-  phone: "847-688-3760"
+  phone: "(847) 688-3760"
   region: "Navy Region Mid-Atlantic (Great Lakes)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_GL/CHICAGO/Pages/NRH_Default.aspx"
   coordinates:
@@ -1278,7 +1278,7 @@
     city: "BUCKLEY AFB"
     state: "CO"
     zip: "80011"
-  phone: "720.847.6205"
+  phone: "(720) 847-6205"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/DENVER/Pages/NRH_default.aspx"
   coordinates:
@@ -1302,7 +1302,7 @@
     city: ""
     state: "Guam"
     zip: "96540"
-  phone: "671-339-6724"
+  phone: "(671) 339-6724"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/GUAM/Pages/NRH_default.aspx"
   coordinates:
@@ -1314,7 +1314,7 @@
     city: "Las Vegas"
     state: "NV"
     zip: "89115"
-  phone: "719-317-4398"
+  phone: "(719) 317-4398"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/LAS_VEGAS/Pages/NRH_default.aspx"
   coordinates:
@@ -1326,7 +1326,7 @@
     city: "LEMOORE"
     state: "CA"
     zip: "93245"
-  phone: "559-998-3778"
+  phone: "(559) 998-3778"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/LEMOORE/Pages/NRH_default.aspx"
   coordinates:
@@ -1350,7 +1350,7 @@
     city: "RIVERSIDE"
     state: "CA"
     zip: "92518"
-  phone: "(951)656-1199"
+  phone: "(951) 656-1199"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/MORENO_VALLEY/Pages/NRH_default.aspx"
   coordinates:
@@ -1362,7 +1362,7 @@
     city: "Coronado"
     state: "CA"
     zip: "92135"
-  phone: "619-302-1954"
+  phone: "(619) 302-1954"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/NORTH_ISLAND/Pages/NRH_default.aspx"
   coordinates:
@@ -1375,7 +1375,7 @@
     city: "Pearl Harbor"
     state: "HI"
     zip: "96860"
-  phone: "808-471-0091"
+  phone: "(808) 471-0091"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/PEARL_HARBOR/Pages/NRH_default.aspx"
   coordinates:
@@ -1423,7 +1423,7 @@
     city: "Salt Lake City"
     state: "UT"
     zip: "84093"
-  phone: "(801)-736-4200"
+  phone: "(801) 736-4200"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/SALT_LAKE_CITY/Pages/NRH_default.aspx"
   coordinates:
@@ -1447,7 +1447,7 @@
     city: "San Jose"
     state: "CA"
     zip: "95112"
-  phone: "408-294-3070"
+  phone: "(408) 294-3070"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/SAN_JOSE/Pages/NRH_default.aspx"
   coordinates:
@@ -1471,7 +1471,7 @@
     city: "Port Hueneme"
     state: "CA"
     zip: "93043"
-  phone: "805-982-5770"
+  phone: "(805) 982-5770"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/VENTURA_COUNTY/Pages/NRH_default.aspx"
   coordinates:
