@@ -16,7 +16,7 @@ But don't take our word for it, the actual instruction is also included!
 
 ***Note: Since this is an on-going pandemic, this post will be updated as new guidance is put out. Check back to stay updated!***
 
-If you are experiencing any difficulty during the COVID-19 crisis, please reach out to one of the resources provided by the Navy. Those resources can be found [here](https://www.thereserveforce.com/blog/navy-resources/).
+If you are experiencing any difficulty during the COVID-19 crisis, please reach out to one of the resources provided by the Navy. Those resources can be found [here](/blog/navy-resources/).
 
 ## March 24, 2020
 
