@@ -83,7 +83,7 @@ main.single{
 		}
 	}
 
-	body.section-blog{
+	body.section-blog.type-blog{
 		padding-bottom: 48px; /* Make space for social share buttons. */
 	}
 }
@@ -154,7 +154,16 @@ main.single{
 
 	main.list,
 	main.single{
+
+		margin: 10px 2% 0;
+		padding: 0 10px 10px;
+
 		h1{
+			font-size: 3.5rem;
+		}
+
+		h2{
+			font-size: 2.5rem;
 		}
 
 		.alignleft,
@@ -187,6 +196,18 @@ main.single{
  * <= 450px width
  * *********************************************/
 @media(max-width: 450px){
+
+	main.list,
+	main.single{
+		h1{
+			font-size: 3.2rem;
+		}
+
+		h2{
+			font-size: 2.5rem;
+		}
+	}
+
 	#nosc-search{
 		div{
 			display: block !important;;
@@ -200,5 +221,9 @@ main.single{
 		button{
 			display: inline-block;
 		}
+	}
+
+	body.section-navy #nosc-list > ul{
+		padding-left: 10px;
 	}
 }
