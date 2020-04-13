@@ -10,6 +10,9 @@
 	</header>
 	<div class="content">{{ .Content }}</div>
 </article>
+{{ if eq (getenv "HUGO_ENV") "production" }}
+	{{ partial "discourse-comments" . }}
+{{ end }}
 </main>
 {{ partial "share-buttons" . }}
 {{ end }}
