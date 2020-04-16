@@ -6,7 +6,7 @@
 		<a class="toggle"><span class="fas fa-bars"></span></a>
 		<ul class="menu h main">
 			<li><a href="{{ .Site.BaseURL  }}"><i class="fas fa-home"></i></a></li>
-			{{- $urlPart1 := print "/" (index (split .URL "/") 1) "/" -}}
+			{{- $urlPart1 := print "/" (index (split .Permalink "/") 1) "/" -}}
 		{{ range .Site.Menus.main }}
 			{{ if .HasChildren }}
 				<li class="parent closed {{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
