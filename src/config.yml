@@ -34,6 +34,11 @@ menu:
       name: "Army"
       url: "/army/"
       weight: 15
+    - parent: branches
+      pre: '<span class="fas fa-chevron-circle-down"></span>'
+      name: "Marine Corps"
+      url: "/marine-corps/"
+      weight: 16
     - name: "About"
       url: "/about/"
       weight: 20
