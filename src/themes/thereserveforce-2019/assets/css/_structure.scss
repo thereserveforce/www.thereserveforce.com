@@ -101,6 +101,10 @@ body > header nav.section{
 		background-color: $armyColor;
 	}
 
+	&.marine-corps{
+		background-color: $marinesColor;
+	}
+
 	&.blog{
 		background-color: $allColor;
 	}

@@ -8,3 +8,8 @@ army:
   full: "U.S. Army"
   acronym: "USA"
   color: green
+marine-corps:
+  short: "marine-corps"
+  full: "U.S. Marine Corps"
+  acronym: "USMC"
+  color: red
