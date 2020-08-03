@@ -58,6 +58,9 @@ menu:
     - name: "Pay Chart"
       url: "/all/pay-chart/"
       weight: 10
+    - name: "IT Assistance"
+      url: "/all/it-assistance/"
+      weight: 15 
   navy:
     - name: "USN"
       url: "/navy/"
