@@ -1,8 +1,7 @@
 ---
-title: "IT Assistance"
+title: "Windows"
 ---
 
-For all home access needs!
 
 <!--more-->
 
