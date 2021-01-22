@@ -26,7 +26,7 @@ workflows:
 jobs:
   buildProduction:
     docker:
-      - image: hubci/gotham:0.10
+      - image: hubci/gotham:0.13
     steps:
       - checkout
       - run:
@@ -41,7 +41,7 @@ jobs:
             - public
   buildStaging:
     docker:
-      - image: hubci/gotham:0.10
+      - image: hubci/gotham:0.13
     steps:
       - checkout
       - run:
@@ -56,7 +56,7 @@ jobs:
             - public
   deployProduction:
     docker:
-      - image: hubci/gotham:0.10
+      - image: hubci/gotham:0.13
     steps:
       - attach_workspace:
           at: src
@@ -66,7 +66,7 @@ jobs:
           rsync -va --delete src/public/ root@sweb0.revidian.net:/static-websites/thereserveforce/www/public_html
   deployStaging:
     docker:
-      - image: hubci/gotham:0.10
+      - image: hubci/gotham:0.13
     steps:
       - attach_workspace:
           at: src
