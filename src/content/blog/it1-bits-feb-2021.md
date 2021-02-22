@@ -1,7 +1,7 @@
 ---
 title: "IT1's Bits - February 2021"
 author: raven
-date: 2021-02-22T18:30:00-05:00
+date: 2021-02-22T12:30:00-05:00
 categories:
  - "navy"
 tags:
@@ -14,7 +14,7 @@ I offer my assistance with helping you stay productive at home. Here is my first
 
 <!--more-->
 
-We all know how quick and efficient word spreads around the reserve (kidding). I just wanted to give a quick summary of some new IT-related updates. 
+We all know how quick and efficient word spreads around the Navy Reserve (kidding). I just wanted to give a quick summary of some new IT-related updates. 
 
 	1. CLO Enablement (PLEASE READ! VERY IMPORTANT!)
 	2. Fix for eLearning
@@ -30,7 +30,7 @@ If you have received a new CAC and did not complete this, the NMCI Help Desk may
 
 You would think that millions of emails would go out about this, but many were not even aware this was a thing.
 
-**A fix for eLearning**
+**A Fix for eLearning**
 
 If you are experiencing page load failures when attempting to access Navy eLearning, look closely at the beginning of the address bar. There is a server bug that frequently causes the "https://" at the beginning to be changed to "http://". 
 
