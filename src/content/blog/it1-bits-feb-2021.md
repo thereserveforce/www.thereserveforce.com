@@ -24,7 +24,7 @@ We all know how quick and efficient word spreads around the Navy Reserve (kiddin
 **CLO Enablement**
 BLUF: Sailors should perform the Cryptographic Logon (CLO) Enablement also known as the CLO Tool Alignment on their older CAC Cards. Sailors who have had new CAC cards created for **brand new** accounts since August are exempt completing this process. Their CAC cards are already CLO enabled.
 
-Otherwise, this process must be completed BEFORE receiving a new CAC and must be done on an NMCI asset. The instructions can be found [here] (https://www.thereserveforce.com/all/it-assistance/windows/).
+Otherwise, this process must be completed BEFORE receiving a new CAC and must be done on an NMCI asset. The instructions can be found [here](https://www.thereserveforce.com/all/it-assistance/windows/).
 
 If you have received a new CAC and did not complete this, the NMCI Help Desk may be able to assist (866-843-6624).
 
