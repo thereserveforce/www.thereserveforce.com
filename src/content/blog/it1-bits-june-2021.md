@@ -1,7 +1,7 @@
 ---
 title: "IT1's Bits - June 2021"
 author: raven
-date: 2021-06-02T12:30:00-05:00
+date: 2021-06-08T12:30:00-05:00
 categories:
  - "navy"
 tags:
@@ -12,13 +12,13 @@ In the last few weeks, the Navy has announced some exciting news regarding the t
 
 <!--more-->
 
-Here are some exciting updates that will modernize the way we do business.
+Here are some exciting updates that will modernize the way we do business:
 
-	1. Flank Speed (Go Live is June 15th!)
-	2. NROWS Update
-	3. eNavFit (It's about time)
-	4. Issue with accessing Navy Email
-	5. Boot Camp for MacOS (M1 systems)
+1. Flank Speed (Go Live is June 15th!)
+2. NROWS Update
+3. eNavFit (It's about time)
+4. Issue with accessing Navy Email
+5. Boot Camp for MacOS (M1 systems)
 
 **Flank Speed**
 
@@ -43,7 +43,7 @@ Those with current CVR accounts will be prioritized for migration to FS accounts
 
 **Important Note:** Be sure to save all files saved in Teams PRIOR to June 15th as they will not be automatically migrated to Flank Speed or SharePoint.
 
-For more information, visit [here] (https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/FlankSpeed/SitePages/Home.aspx). (CAC Access Required)
+For more information, visit [here](https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/FlankSpeed/SitePages/Home.aspx). (CAC Access Required)
 
 **NROWS**
 
@@ -60,7 +60,7 @@ Several Navy Reserve commands, units and support centers across the force have b
 
 eNavFit is scheduled to replace NAVFIT98A by December 2021. The system will minimize the need for the hard copy routing process, reduce unit-level administrative hurdles, and automate submissions to the Performance Evaluations Division (PERS-32) for entry into Sailor Official Military Personnel File (OMPF) records.
 
-For more information about eNavFit, visit [here] (https://www.navyreserve.navy.mil/News/Article-View-News/Article/2621357/navy-reserve-to-test-new-evaluation-and-fitness-report-system/).
+For more information about eNavFit, visit [here](https://www.navyreserve.navy.mil/News/Article-View-News/Article/2621357/navy-reserve-to-test-new-evaluation-and-fitness-report-system/).
 
 **Issue accessing Navy Email**
 
@@ -69,11 +69,11 @@ Several members have noticed issues with accessing Navy Email lately and have re
     ERR_CONNECTION_TIMED_OUT
     ERR_CERT_REVOKED
 
-If you find yourself having the same issue, follow the instructions [here] (https://www.thereserveforce.com/all/it-assistance/windows/) for installing the DoD Root certificates.
+If you find yourself having the same issue, follow the instructions [here](https://www.thereserveforce.com/all/it-assistance/windows/) for installing the DoD Root certificates.
 
 If this does not work for you, drop a comment below!
 
-**Boot Camp for MacOS**
+**Boot Camp for macOS**
 
 In my last issue of “IT1’s Bits”, I mentioned that brand new Macs with the new CPU called ”M1” did not support Boot Camp. As a reminder, Boot Camp is a utility that comes with your Mac and lets you switch between MacOS and Windows.
 
@@ -81,5 +81,4 @@ Well, I have good news…
 
 Parallels has released an update to its desktop virtual machine software that allows you to install Windows 10 on Arm on M1 Macs. Parallels Desktop 16.5 now includes the necessary native support to run the Arm version of Windows on M1 chips, following Apple’s decision not to support Boot Camp on M1 Macs.
 
-For more information, visit there website [here] (https://www.parallels.com/pd/bootcamp/).
-
+For more information, visit there website [here](https://www.parallels.com/pd/bootcamp/).
