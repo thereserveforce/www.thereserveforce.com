@@ -26,12 +26,12 @@ workflows:
 jobs:
   buildProduction:
     docker:
-      - image: hubci/gotham:0.13
+      - image: hubci/strawberry:0.20.1
     steps:
       - checkout
       - run:
           name: "Build Website With Hugo"
-          command: HUGO_ENV=production gotham -v -s src/
+          command: HUGO_ENV=production strawberry -v -s src/
       - run:
           name: "Test Website"
           command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
@@ -41,12 +41,12 @@ jobs:
             - public
   buildStaging:
     docker:
-      - image: hubci/gotham:0.13
+      - image: hubci/strawberry:0.20.1
     steps:
       - checkout
       - run:
           name: "Build Website With Hugo"
-          command: HUGO_ENV=staging gotham -v -s src/ --config config.yml,staging-config.yml
+          command: HUGO_ENV=staging strawberry -v -s src/ --config config.yml,staging-config.yml
       - run:
           name: "Test Website"
           command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
@@ -56,7 +56,7 @@ jobs:
             - public
   deployProduction:
     docker:
-      - image: hubci/gotham:0.13
+      - image: hubci/strawberry:0.20.1
     steps:
       - attach_workspace:
           at: src
@@ -66,7 +66,7 @@ jobs:
           rsync -va --delete src/public/ root@sweb0.revidian.net:/static-websites/thereserveforce/www/public_html
   deployStaging:
     docker:
-      - image: hubci/gotham:0.13
+      - image: hubci/strawberry:0.20.1
     steps:
       - attach_workspace:
           at: src
