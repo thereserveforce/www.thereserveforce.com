@@ -6,23 +6,23 @@ workflows:
       - buildProduction:
           filters:
             branches:
-              only: master
+              only: trunk
       - buildStaging:
           filters:
             branches:
-              ignore: master
+              ignore: trunk
       - deployProduction:
           requires:
             - buildProduction
           filters:
             branches:
-              only: master
+              only: trunk
       - deployStaging:
           requires:
             - buildStaging
           filters:
             branches:
-              ignore: master
+              ignore: trunk
 jobs:
   buildProduction:
     docker:
