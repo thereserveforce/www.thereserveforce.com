@@ -7,22 +7,12 @@ workflows:
           filters:
             branches:
               only: trunk
-      - buildStaging:
-          filters:
-            branches:
-              ignore: trunk
       - deployProduction:
           requires:
             - buildProduction
           filters:
             branches:
               only: trunk
-      - deployStaging:
-          requires:
-            - buildStaging
-          filters:
-            branches:
-              ignore: trunk
 jobs:
   buildProduction:
     docker:
@@ -32,21 +22,6 @@ jobs:
       - run:
           name: "Build Website With Hugo"
           command: HUGO_ENV=production strawberry -v -s src/
-      - run:
-          name: "Test Website"
-          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
-      - persist_to_workspace:
-          root: src
-          paths:
-            - public
-  buildStaging:
-    docker:
-      - image: hubci/strawberry:0.22.0
-    steps:
-      - checkout
-      - run:
-          name: "Build Website With Hugo"
-          command: HUGO_ENV=staging strawberry -v -s src/ --config config.yml,staging-config.yml
       - run:
           name: "Test Website"
           command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
@@ -66,15 +41,3 @@ jobs:
           command: |
             echo 'web0.atl.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE16slz1okRPeUhxIpzBCn9rHqjk51ylxEYlYXvblswcxOQ0rPyAX6N8Bd2pnsh99xce/jaX2KJHPLPCc+zAXTg=' >> ~/.ssh/known_hosts
             rsync -va --delete src/public/ root@web0.atl.revidian.net:/gfs-vols/static-vol/thereserveforce/www/public_html
-  deployStaging:
-    docker:
-      - image: hubci/strawberry:0.22.0
-    steps:
-      - attach_workspace:
-          at: src
-      - add_ssh_keys
-      - run:
-          name: "Deploy to Revidian Cloud"
-          command: |
-            echo 'web0.atl.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE16slz1okRPeUhxIpzBCn9rHqjk51ylxEYlYXvblswcxOQ0rPyAX6N8Bd2pnsh99xce/jaX2KJHPLPCc+zAXTg=' >> ~/.ssh/known_hosts
-            rsync -va --delete src/public/ root@web0.atl.revidian.net:/gfs-vols/static-vol/thereserveforce/staging-www/public_html
