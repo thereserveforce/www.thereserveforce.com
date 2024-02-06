@@ -44,8 +44,15 @@ metadata:
   name: trf-website
   labels:
     app: trf-website
+  annotations:
+    cert-manager.io/cluster-issuer: "letsencrypt-production"
 spec:
-  ingressClassName: caddy
+  ingressClassName: nginx
+  tls:
+  - hosts:
+    - www.thereserveforce.com
+    - thereserveforce.com
+    secretName: trf-website-tls
   rules:
   - host: www.thereserveforce.com
     http:
