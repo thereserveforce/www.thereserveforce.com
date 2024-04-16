@@ -1,5 +1,5 @@
 ---
-title: "Were Making a Comeback in 2024"
+title: "We're Making a Comeback in 2024"
 description: ""
 author: FelicianoTech
 date: "2024-04-15T20:30:57-04:00"
