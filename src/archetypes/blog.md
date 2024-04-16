@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "{{ replace .File.ContentBaseName `-` ` ` | title }}"
 # Enter description below. This will be used for a summary in lists and the HTML meta description tag.
 description: ""
-date: 2019-01-02T09:00:00-05:00
+author: FelicianoTech
+date: "{{ .Date }}"
 categories:
   - ""
 tags:
@@ -12,5 +13,3 @@ feature: "something.png"
 featureHide: true
 ---
 
-
-<!--more-->
