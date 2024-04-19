@@ -1,4 +1,4 @@
-- name: "NOSC Akron"
+- name: "NRC Akron"
   address:
     street1: "5986 W. Airport Dr"
     city: "North Canton"
@@ -10,7 +10,7 @@
   coordinates:
     lat: 40.92883
     long: -81.44992
-- name: "NOSC Avoca"
+- name: "NRC Avoca"
   address:
     street1: "1200 Navy Way Rd"
     city: "Avoca"
@@ -22,7 +22,7 @@
   coordinates:
     lat: 41.33306
     long: -75.73489
-- name: "NOSC Battle Creek"
+- name: "NRC Battle Creek"
   address:
     street1: "2000 VLUG ROAD"
     city: "Augusta"
@@ -34,7 +34,7 @@
   coordinates:
     lat: 42.32922
     long: -85.28269
-- name: "NOSC Chicago"
+- name: "NRC Chicago"
   address:
     street1: "615 Barry Rd Bldg 190"
     city: "Great Lakes"
@@ -46,7 +46,7 @@
   coordinates:
     lat: 42.30989
     long: -87.84153
-- name: "NOSC Cincinnati"
+- name: "NRC Cincinnati"
   address:
     street1: "3190 Gilbert Ave"
     city: "Cincinnati"
@@ -58,7 +58,7 @@
   coordinates:
     lat: 39.13717
     long: -84.47986
-- name: "NOSC Columbus OH"
+- name: "NRC Columbus OH"
   address:
     street1: "7221 2nd Street"
     city: "Columbus"
@@ -70,7 +70,7 @@
   coordinates:
     lat: 39.82014
     long: -82.94536
-- name: "NOSC Decatur"
+- name: "NRC Decatur"
   address:
     street1: "2595 EAST FEDERAL DRIVE"
     city: "DECATUR"
@@ -82,7 +82,7 @@
   coordinates:
     lat: 39.88889
     long: -88.92069
-- name: "NOSC Detroit"
+- name: "NRC Detroit"
   address:
     street1: "25660 ELLSWORTH Bldg 1409"
     city: "Harrison Charter Township"
@@ -94,7 +94,7 @@
   coordinates:
     lat: 42.62311
     long: -82.84828
-- name: "NOSC Ebensburg"
+- name: "NRC Ebensburg"
   address:
     street1: "261 Industrial Park Road"
     city: "Ebensburg"
@@ -106,7 +106,7 @@
   coordinates:
     lat: 40.46353
     long: -78.76039
-- name: "NOSC Eleanor"
+- name: "NRC Eleanor"
   address:
     street1: "111 Army Navy Drive"
     city: "Red House"
@@ -118,7 +118,7 @@
   coordinates:
     lat: 38.52961
     long: -81.91658
-- name: "NOSC Erie"
+- name: "NRC Erie"
   address:
     street1: "3938 Old French Rd"
     city: "Erie"
@@ -130,7 +130,7 @@
   coordinates:
     lat: 42.10094
     long: -80.06256
-- name: "NOSC Green Bay"
+- name: "NRC Green Bay"
   address:
     street1: "2949 Ramada Way"
     city: "Green Bay"
@@ -142,7 +142,7 @@
   coordinates:
     lat: 44.46925
     long: -88.07642
-- name: "NOSC Harrisburg"
+- name: "NRC Harrisburg"
   address:
     street1: "5450 Carlisle Pike Bldg 9"
     city: "Mechanicsburg"
@@ -154,7 +154,7 @@
   coordinates:
     lat: 40.23428
     long: -76.98850
-- name: "NOSC Indianapolis"
+- name: "NRC Indianapolis"
   address:
     street1: "9801 E. 59th St."
     city: "Indianapolis"
@@ -166,7 +166,7 @@
   coordinates:
     lat: 39.86203
     long: -85.99522
-- name: "NOSC Lehigh Valley"
+- name: "NRC Lehigh Valley"
   address:
     street1: "1400 Postal Rd"
     city: "Allentown"
@@ -178,7 +178,7 @@
   coordinates:
     lat: 40.64442
     long: -75.43789
-- name: "NOSC Lousiville"
+- name: "NRC Lousiville"
   address:
     street1: "5401 Southside Drive"
     city: "Louisville"
@@ -190,7 +190,7 @@
   coordinates:
     lat: 38.17050
     long: -85.76397
-- name: "NOSC Madison"
+- name: "NRC Madison"
   address:
     street1: "6001 MANUFACTURERS DRIVE"
     city: "MADISON"
@@ -202,7 +202,7 @@
   coordinates:
     lat: 43.15872
     long: -89.31631
-- name: "NOSC Milwaukee"
+- name: "NRC Milwaukee"
   address:
     street1: "2401 S. LINCOLN MEMORIAL DR"
     city: "MILWAUKEE"
@@ -214,7 +214,7 @@
   coordinates:
     lat: 43.00161
     long: -87.89039
-- name: "NOSC Peoria"
+- name: "NRC Peoria"
   address:
     street1: "7117 West Plank Road"
     city: "Peoria"
@@ -226,7 +226,7 @@
   coordinates:
     lat: 40.69094
     long: -89.70553
-- name: "NOSC Pittsburgh"
+- name: "NRC Pittsburgh"
   address:
     street1: "1265 Rocky Lane"
     city: "Coraopolis"
@@ -238,7 +238,7 @@
   coordinates:
     lat: 40.49556
     long: -80.20969
-- name: "NOSC Rock Island"
+- name: "NRC Rock Island"
   address:
     street1: "218 Rodman Ave"
     city: "Rock Island"
@@ -250,7 +250,7 @@
   coordinates:
     lat: 41.51683
     long: -90.56231
-- name: "NOSC Saginaw"
+- name: "NRC Saginaw"
   address:
     street1: "3500 DOUGLASS STREET"
     city: "SAGINAW"
@@ -262,7 +262,7 @@
   coordinates:
     lat: 43.39083
     long: -83.96200
-- name: "NOSC Toledo"
+- name: "NRC Toledo"
   address:
     street1: "28828 GLENWOOD ROAD"
     city: "PERRYSBURG"
@@ -274,7 +274,7 @@
   coordinates:
     lat: 41.57028
     long: -83.55722
-- name: "NOSC Youngstown"
+- name: "NRC Youngstown"
   address:
     street1: "3976 King Grave Rd Unit 80"
     city: "Vienna"
@@ -286,7 +286,7 @@
   coordinates:
     lat: 41.27178
     long: -80.67633
-- name: "NOSC Baltimore"
+- name: "NRC Baltimore"
   address:
     street1: "1201 Halsey Place"
     city: "Baltimore"
@@ -298,7 +298,7 @@
   coordinates:
     lat: 39.26675
     long: -76.58050
-- name: "NOSC Bangor"
+- name: "NRC Bangor"
   address:
     street1: "300 Hildreth St. N. Ste. 300"
     city: "Bangor"
@@ -310,7 +310,7 @@
   coordinates:
     lat: 44.80244
     long: -68.83897
-- name: "NOSC Buffalo"
+- name: "NRC Buffalo"
   address:
     street1: "3 Porter Ave"
     city: "Buffalo"
@@ -322,7 +322,7 @@
   coordinates:
     lat: 42.89822
     long: -78.89856
-- name: "NOSC Charlotte"
+- name: "NRC Charlotte"
   address:
     street1: "6115 N Hills Circle Suite A"
     city: "Charlotte"
@@ -334,7 +334,7 @@
   coordinates:
     lat: 35.26878
     long: -80.76397
-- name: "NOSC Earle"
+- name: "NRC Earle"
   address:
     street1: "801 HIGHWAY 36 BLDG R-4A"
     city: "LEONARDO"
@@ -346,7 +346,7 @@
   coordinates:
     lat: 40.41772
     long: -74.07056
-- name: "NOSC Fort Dix"
+- name: "NRC Fort Dix"
   address:
     street1: "5951 Newport St"
     city: "Fort Dix"
@@ -358,7 +358,7 @@
   coordinates:
     lat: 40.00369
     long: -74.62519
-- name: "NOSC Greensboro"
+- name: "NRC Greensboro"
   address:
     street1: "7838 MCCLOUD ROAD"
     city: "Greensboro"
@@ -370,7 +370,7 @@
   coordinates:
     lat: 36.08747
     long: -79.97542
-- name: "NOSC Long Island"
+- name: "NRC Long Island"
   address:
     street1: "25 Baiting Place Rd"
     city: "Farmingdale"
@@ -382,7 +382,7 @@
   coordinates:
     lat: 40.71364
     long: -73.42586
-- name: "NOSC Manchester"
+- name: "NRC Manchester"
   address:
     street1: "64 HARVEY ROAD STE 101"
     city: "LONDONDERRY"
@@ -394,7 +394,7 @@
   coordinates:
     lat: 42.91139
     long: -71.41908
-- name: "NOSC New Castle"
+- name: "NRC New Castle"
   address:
     street1: "1 Vavala Way"
     city: "New Castle"
@@ -406,7 +406,7 @@
   coordinates:
     lat: 39.68383
     long: -75.61783
-- name: "NOSC New London"
+- name: "NRC New London"
   address:
     street1: "86 Grayling Ave"
     city: "Groton"
@@ -418,7 +418,7 @@
   coordinates:
     lat: 41.39092
     long: -72.08761
-- name: "NOSC New York City"
+- name: "NRC New York City"
   address:
     street1: "4 Pennyfield Ave"
     city: "Bronx"
@@ -430,7 +430,7 @@
   coordinates:
     lat: 40.81011
     long: -73.80161
-- name: "NOSC Newport"
+- name: "NRC Newport"
   address:
     street1: "345 Easton Street"
     city: "Newport"
@@ -442,7 +442,7 @@
   coordinates:
     lat: 41.51364
     long: -71.31997
-- name: "NOSC Norfolk"
+- name: "NRC Norfolk"
   address:
     street1: "One Navy Dr."
     city: "Virginia Beach"
@@ -454,7 +454,7 @@
   coordinates:
     lat: 36.91397
     long: -76.18808
-- name: "NOSC Plainville"
+- name: "NRC Plainville"
   address:
     street1: "1 LINSLEY DRIVE"
     city: "PLAINVILLE"
@@ -466,7 +466,7 @@
   coordinates:
     lat: 41.66078
     long: -72.85772
-- name: "NOSC Quincy"
+- name: "NRC Quincy"
   address:
     street1: "85 SEA ST"
     city: "QUINCY"
@@ -478,7 +478,7 @@
   coordinates:
     lat: 42.25856
     long: -70.99489
-- name: "NOSC Raleigh"
+- name: "NRC Raleigh"
   address:
     street1: "2725 Western Blvd"
     city: "Raleigh"
@@ -490,7 +490,7 @@
   coordinates:
     lat: 35.78156
     long: -78.67814
-- name: "NOSC Richmond"
+- name: "NRC Richmond"
   address:
     street1: "6000 STRATHMORE RD"
     city: "RICHMOND"
@@ -502,7 +502,7 @@
   coordinates:
     lat: 37.44400
     long: -77.45056
-- name: "NOSC Roanoke"
+- name: "NRC Roanoke"
   address:
     street1: "5301 Barns Avenue"
     city: "Roanoke"
@@ -514,7 +514,7 @@
   coordinates:
     lat: 37.33244
     long: -79.97553
-- name: "NOSC Rochester"
+- name: "NRC Rochester"
   address:
     street1: "439 PAUL ROAD"
     city: "ROCHESTER"
@@ -526,7 +526,7 @@
   coordinates:
     lat: 43.10564
     long: -77.71242
-- name: "NOSC Schenectady"
+- name: "NRC Schenectady"
   address:
     street1: "251 RUDY CHASE DRIVE"
     city: "SCHENECTADY"
@@ -538,7 +538,7 @@
   coordinates:
     lat: 42.85736
     long: -73.93194
-- name: "NOSC Syracuse"
+- name: "NRC Syracuse"
   address:
     street1: "5803 EAST MOLLOY ROAD"
     city: "MATTYDALE"
@@ -550,7 +550,7 @@
   coordinates:
     lat: 43.09975
     long: -76.11653
-- name: "NOSC Washington D.C."
+- name: "NRC Washington D.C."
   address:
     street1: "3282 East Perimeter Road"
     city: "Joint Base Andrews"
@@ -562,7 +562,7 @@
   coordinates:
     lat: 38.80653
     long: -76.85647
-- name: "NOSC White River Junction"
+- name: "NRC White River Junction"
   address:
     street1: "207 Holiday Drive"
     city: "White River Junction"
@@ -574,7 +574,7 @@
   coordinates:
     lat: 43.64331
     long: -72.33458
-- name: "NOSC Wilmington NC"
+- name: "NRC Wilmington NC"
   address:
     street1: "3623 Carolina Beach Road"
     city: "Wilmington"
@@ -586,7 +586,7 @@
   coordinates:
     lat: 34.18056
     long: -77.92642
-- name: "NOSC Atlanta"
+- name: "NRC Atlanta"
   address:
     street1: "1210 Naval Force Court Bldg 440"
     city: "Marietta"
@@ -598,7 +598,7 @@
   coordinates:
     lat: 33.92817
     long: -84.51919
-- name: "NOSC Augusta"
+- name: "NRC Augusta"
   address:
     street1: "2869 Central Avenue"
     city: "Augusta"
@@ -610,7 +610,7 @@
   coordinates:
     lat: 33.47186
     long: -82.03714
-- name: "NOSC Bessemer"
+- name: "NRC Bessemer"
   address:
     street1: "1001 4th Ave SW"
     city: "Bessemer"
@@ -622,7 +622,7 @@
   coordinates:
     lat: 33.36675
     long: -86.98206
-- name: "NOSC Charleston"
+- name: "NRC Charleston"
   address:
     street1: "1050 Remount Rd BLDG 3370"
     city: "North Charleston"
@@ -634,7 +634,7 @@
   coordinates:
     lat: 32.90544
     long: -79.97939
-- name: "NOSC Chattanooga"
+- name: "NRC Chattanooga"
   address:
     street1: "4051 Amnicola Highway"
     city: "Chattanooga"
@@ -646,7 +646,7 @@
   coordinates:
     lat: 35.09539
     long: -85.25342
-- name: "NOSC Columbia"
+- name: "NRC Columbia"
   address:
     street1: "2620 LEE ROAD"
     city: "FORT JACKSON"
@@ -658,7 +658,7 @@
   coordinates:
     lat: 34.00114
     long: -80.93797
-- name: "NOSC Columbus GA"
+- name: "NRC Columbus GA"
   address:
     street1: "414 4th St."
     city: "Columbus"
@@ -670,7 +670,7 @@
   coordinates:
     lat: 32.45311
     long: -84.98703
-- name: "NOSC Greenville"
+- name: "NRC Greenville"
   address:
     street1: "669 Perimeter Road"
     city: "GREENVILLE"
@@ -682,7 +682,7 @@
   coordinates:
     lat: 34.76306
     long: -82.37964
-- name: "NOSC Jacksonville"
+- name: "NRC Jacksonville"
   address:
     street1: "966 Ajax St"
     city: "Jacksonville"
@@ -694,7 +694,7 @@
   coordinates:
     lat: 30.22164
     long: -81.67936
-- name: "NOSC Knoxville"
+- name: "NRC Knoxville"
   address:
     street1: "2101 Alcoa Hwy"
     city: "Knoxville"
@@ -706,7 +706,7 @@
   coordinates:
     lat: 35.93075
     long: -83.95039
-- name: "NOSC Memphis"
+- name: "NRC Memphis"
   address:
     street1: "7994 HORNET AVE"
     city: "MILLINGTON"
@@ -718,7 +718,7 @@
   coordinates:
     lat: 35.33803
     long: -89.87156
-- name: "NOSC Miami"
+- name: "NRC Miami"
   address:
     street1: "18650 NW 62ND Ave"
     city: "Hialeah"
@@ -730,7 +730,7 @@
   coordinates:
     lat: 25.94392
     long: -80.30061
-- name: "NOSC Nashville"
+- name: "NRC Nashville"
   address:
     street1: "686 Fitzhugh Blvd"
     city: "Smyrna"
@@ -742,7 +742,7 @@
   coordinates:
     lat: 36.01183
     long: -86.50739
-- name: "NOSC Orlando"
+- name: "NRC Orlando"
   address:
     street1: "9500 Armed Forces Reserve Drive Suite 200"
     street2: "Suite 200"
@@ -755,7 +755,7 @@
   coordinates:
     lat: 28.42872
     long: -81.34772
-- name: "NOSC Pensacola"
+- name: "NRC Pensacola"
   address:
     street1: "115 Cunningham St Bldg 781"
     city: "Pensacola"
@@ -767,7 +767,7 @@
   coordinates:
     lat: 30.36428
     long: -87.27522
-- name: "NOSC Puerto Rico"
+- name: "NRC Puerto Rico"
   address:
     street1: "77 Navy Way"
     city: "Fort Buchanan"
@@ -779,7 +779,7 @@
   coordinates:
     lat: 18.41497
     long: -66.12897
-- name: "NOSC Tallahassee"
+- name: "NRC Tallahassee"
   address:
     street1: "2910 Roberts Ave"
     city: "Tallahassee"
@@ -791,7 +791,7 @@
   coordinates:
     lat: 30.43006
     long: -84.33642
-- name: "NOSC Tampa"
+- name: "NRC Tampa"
   address:
     street1: "2750 Southshore Ave"
     city: "Tampa"
@@ -803,7 +803,7 @@
   coordinates:
     lat: 27.83861
     long: -82.49089
-- name: "NOSC West Palm Beach"
+- name: "NRC West Palm Beach"
   address:
     street1: "1227 MARINE DRIVE"
     city: "WEST PALM BEACH"
@@ -815,7 +815,7 @@
   coordinates:
     lat: 26.69275
     long: -80.09394
-- name: "NOSC Amarillo"
+- name: "NRC Amarillo"
   address:
     street1: "2500 Tee Anchor Blvd"
     city: "Amarillo"
@@ -827,7 +827,7 @@
   coordinates:
     lat: 35.19903
     long: -101.80925
-- name: "NOSC Austin"
+- name: "NRC Austin"
   address:
     street1: "4601 Fairview Drive"
     city: "Austin"
@@ -839,7 +839,7 @@
   coordinates:
     lat: 30.32486
     long: -97.76136
-- name: "NOSC Corpus Christi"
+- name: "NRC Corpus Christi"
   address:
     street1: "1430 DIMMIT DR STE 140"
     city: "CORPUS CHRISTI"
@@ -851,7 +851,7 @@
   coordinates:
     lat: 27.68811
     long: -97.26144
-- name: "NOSC El Paso"
+- name: "NRC El Paso"
   address:
     street1: "4810 POLLARD STREET"
     city: "EL PASO"
@@ -863,7 +863,7 @@
   coordinates:
     lat: 31.82022
     long: -106.44264
-- name: "NOSC Fort Worth"
+- name: "NRC Fort Worth"
   address:
     street1: "1803 DOOLITTLE AVE"
     city: "FORT WORTH"
@@ -875,7 +875,7 @@
   coordinates:
     lat: 32.77525
     long: -97.42344
-- name: "NOSC Gulfport"
+- name: "NRC Gulfport"
   address:
     street1: "4901 CBC 3rd Street BLDG 114"
     city: "Gulfport"
@@ -887,7 +887,7 @@
   coordinates:
     lat: 30.37275
     long: -89.12419
-- name: "NOSC Harlingen"
+- name: "NRC Harlingen"
   address:
     street1: "1300 West Teege Avenue"
     city: "Harlingen"
@@ -899,7 +899,7 @@
   coordinates:
     lat: 26.19692
     long: -97.70906
-- name: "NOSC Houston"
+- name: "NRC Houston"
   address:
     street1: "10949 Aerospace Ave"
     city: "Houston"
@@ -911,7 +911,7 @@
   coordinates:
     lat: 29.61086
     long: -95.17350
-- name: "NOSC Kansas City"
+- name: "NRC Kansas City"
   address:
     street1: "3100 Emanuel Cleaver II Blvd"
     city: "Kansas City"
@@ -923,7 +923,7 @@
   coordinates:
     lat: 39.04192
     long: -94.54897
-- name: "NOSC Little Rock"
+- name: "NRC Little Rock"
   address:
     street1: "8005 CAMP ROBINSON ROAD"
     city: "LITTLE ROCK"
@@ -935,7 +935,7 @@
   coordinates:
     lat: 34.81986
     long: -92.27678
-- name: "NOSC Meridian"
+- name: "NRC Meridian"
   address:
     street1: "434 Rosenbaum Ave"
     city: "Meridian"
@@ -947,7 +947,7 @@
   coordinates:
     lat: 32.55122
     long: -88.60708
-- name: "NOSC New Orleans"
+- name: "NRC New Orleans"
   address:
     street1: "400 Russell Ave Bldg. 492"
     city: "New Orleans"
@@ -959,7 +959,7 @@
   coordinates:
     lat: 29.82714
     long: -90.02242
-- name: "NOSC Oklahoma City"
+- name: "NRC Oklahoma City"
   address:
     street1: "5316 S Douglas Blvd"
     city: "Oklahoma City"
@@ -971,7 +971,7 @@
   coordinates:
     lat: 35.41264
     long: -97.36997
-- name: "NOSC San Antonio"
+- name: "NRC San Antonio"
   address:
     street1: "3837 BINZ-ENGLEMANN ROAD"
     city: "SAN ANTONIO"
@@ -983,7 +983,7 @@
   coordinates:
     lat: 29.45808
     long: -98.41772
-- name: "NOSC Shreveport"
+- name: "NRC Shreveport"
   address:
     street1: "1440 SWAN LAKE ROAD"
     city: "BOSSIER CITY"
@@ -995,7 +995,7 @@
   coordinates:
     lat: 32.53781
     long: -93.67114
-- name: "NOSC Springfield"
+- name: "NRC Springfield"
   address:
     street1: "1110 N Fremont Ave"
     city: "Springfield"
@@ -1007,7 +1007,7 @@
   coordinates:
     lat: 37.22089
     long: -93.26981
-- name: "NOSC St. Louis"
+- name: "NRC St. Louis"
   address:
     street1: "10810 Lambert International Boulevard"
     city: "Bridgeton"
@@ -1019,7 +1019,7 @@
   coordinates:
     lat: 38.74325
     long: -90.37189
-- name: "NOSC Tulsa"
+- name: "NRC Tulsa"
   address:
     street1: "8000 East New Orleans Street. Suite C"
     city: "Broken Arrow"
@@ -1031,7 +1031,7 @@
   coordinates:
     lat: 36.01925
     long: -95.68422
-- name: "NOSC Waco"
+- name: "NRC Waco"
   address:
     street1: "2100 NORTH NEW ROAD"
     city: "WACO"
@@ -1043,7 +1043,7 @@
   coordinates:
     lat: 31.54728
     long: -97.18639
-- name: "NOSC Wichita"
+- name: "NRC Wichita"
   address:
     street1: "3026 GEORGE WASHINGTON BLVD"
     city: "WICHITA"
@@ -1055,7 +1055,7 @@
   coordinates:
     lat: 37.63858
     long: -97.27325
-- name: "NOSC Anchorage"
+- name: "NRC Anchorage"
   address:
     street1: "733 D St"
     city: "Anchorage"
@@ -1067,7 +1067,7 @@
   coordinates:
     lat: 61.25711
     long: -149.71725
-- name: "NOSC Billings"
+- name: "NRC Billings"
   address:
     street1: "2917 Gabel Rd"
     city: "Billings"
@@ -1079,7 +1079,7 @@
   coordinates:
     lat: 45.74489
     long: -108.58958
-- name: "NOSC Boise"
+- name: "NRC Boise"
   address:
     street1: "4087 WEST HARVARD"
     city: "BOISE"
@@ -1091,7 +1091,7 @@
   coordinates:
     lat: 43.55675
     long: -116.23225
-- name: "NOSC Cheyenne"
+- name: "NRC Cheyenne"
   address:
     street1: "5609 RANDALL AVE BLDG 245"
     city: "CHEYENNE"
@@ -1103,7 +1103,7 @@
   coordinates:
     lat: 41.14858
     long: -104.84531
-- name: "NOSC Des Moines"
+- name: "NRC Des Moines"
   address:
     street1: "47 DICKMAN ROAD"
     city: "DES MOINES"
@@ -1115,7 +1115,7 @@
   coordinates:
     lat: 41.52533
     long: -93.61461
-- name: "NOSC Everett"
+- name: "NRC Everett"
   address:
     street1: "2000 WEST MARINE VIEW DR. BLDG 2106"
     city: "Everett"
@@ -1127,7 +1127,7 @@
   coordinates:
     lat: 47.99356
     long: -122.21750
-- name: "NOSC Fargo"
+- name: "NRC Fargo"
   address:
     street1: "3920 31st St N Suite B"
     street1: "Suite B"
@@ -1140,7 +1140,7 @@
   coordinates:
     lat: 46.93233
     long: -96.82661
-- name: "NOSC Helena"
+- name: "NRC Helena"
   address:
     street1: "2090 USS HELENA DR"
     city: "FORT HARRISON"
@@ -1152,7 +1152,7 @@
   coordinates:
     lat: 46.62172
     long: -112.10264
-- name: "NOSC Kitsap"
+- name: "NRC Kitsap"
   address:
     street1: "125 SOUTH DEWEY ST BLDG 1013"
     city: "BREMERTON"
@@ -1164,7 +1164,7 @@
   coordinates:
     lat: 47.56300
     long: -122.64683
-- name: "NOSC Minneapolis"
+- name: "NRC Minneapolis"
   address:
     street1: "5905 34th Ave"
     city: "Minneapolis"
@@ -1176,7 +1176,7 @@
   coordinates:
     lat: 44.89678
     long: -93.22044
-- name: "NOSC Omaha"
+- name: "NRC Omaha"
   address:
     street1: "702 Nelson Drive"
     city: "Offutt AFB"
@@ -1188,7 +1188,7 @@
   coordinates:
     lat: 41.13144
     long: -95.91569
-- name: "NOSC Portland"
+- name: "NRC Portland"
   address:
     street1: "6735 NORTH BASIN AVENUE"
     city: "PORTLAND"
@@ -1200,7 +1200,7 @@
   coordinates:
     lat: 45.57117
     long: -122.71931
-- name: "NOSC Sioux Falls"
+- name: "NRC Sioux Falls"
   address:
     street1: "4400 N. NORTHVIEW AVE"
     city: "SIOUX FALLS"
@@ -1212,7 +1212,7 @@
   coordinates:
     lat: 43.59606
     long: -96.76486
-- name: "NOSC Spokane"
+- name: "NRC Spokane"
   address:
     street1: "5101 N. Assembly St"
     city: "Spokane"
@@ -1224,7 +1224,7 @@
   coordinates:
     lat: 47.70522
     long: -117.47742
-- name: "NOSC Springfield"
+- name: "NRC Springfield"
   address:
     street1: "3106 Pierce Parkway"
     city: "Springfield"
@@ -1236,7 +1236,7 @@
   coordinates:
     lat: 44.06564
     long: -122.97886
-- name: "NOSC Whidbey Island"
+- name: "NRC Whidbey Island"
   address:
     street1: "1045 MIDWAY STREET"
     city: "OAK HARBOR"
@@ -1248,7 +1248,7 @@
   coordinates:
     lat: 48.33761
     long: -122.67192
-- name: "NOSC Alameda"
+- name: "NRC Alameda"
   address:
     street1: "2144 CLEMENT AVENUE"
     city: "ALAMEDA"
@@ -1260,7 +1260,7 @@
   coordinates:
     lat: 37.77342
     long: -122.24514
-- name: "NOSC Albuquerque"
+- name: "NRC Albuquerque"
   address:
     street1: "8810 S STREET S.E. BLDG. 20616"
     city: "ALBUQUERQUE"
@@ -1272,7 +1272,7 @@
   coordinates:
     lat: 35.03586
     long: -106.54903
-- name: "NOSC Denver"
+- name: "NRC Denver"
   address:
     street1: "7 N. SNOWMASS STREET BLDG 1301"
     city: "BUCKLEY AFB"
@@ -1284,7 +1284,7 @@
   coordinates:
     lat: 39.71678
     long: -104.74394
-- name: "NOSC Fort Carson"
+- name: "NRC Fort Carson"
   address:
     street1: "3040 O'Connell Blvd Bldg 8932"
     city: "Fort Carson"
@@ -1296,7 +1296,7 @@
   coordinates:
     lat: 38.75622
     long: -104.77147
-- name: "NOSC Guam"
+- name: "NRC Guam"
   address:
     street1: "PSC 455 BOX 186 FPO AP"
     city: ""
@@ -1308,7 +1308,7 @@
   coordinates:
     lat: 13.43975
     long: 144.759943
-- name: "NOSC Las Vegas"
+- name: "NRC Las Vegas"
   address:
     street1: "5095 Range Rd. BLDG 1032"
     city: "Las Vegas"
@@ -1320,7 +1320,7 @@
   coordinates:
     lat: 36.25278
     long: -115.04969
-- name: "NOSC Lemoore"
+- name: "NRC Lemoore"
   address:
     street1: "910 HANCOCK AVE"
     city: "LEMOORE"
@@ -1332,7 +1332,7 @@
   coordinates:
     lat: 36.26461
     long: -119.89883
-- name: "NOSC Los Angeles"
+- name: "NRC Los Angeles"
   address:
     street1: "5631 Rickenbacker Road"
     city: "Bell"
@@ -1344,7 +1344,7 @@
   coordinates:
     lat: 33.99086
     long: -118.16447
-- name: "NOSC Riverside"
+- name: "NRC Riverside"
   address:
     street1: "2960 Graeber Street"
     street2: "Bldg 1230"
@@ -1357,7 +1357,7 @@
   coordinates:
     lat: 33.88835
     long: -117.24453
-- name: "NOSC North Island"
+- name: "NRC North Island"
   address:
     street1: "Bldg 251, I-3rd St"
     city: "Coronado"
@@ -1369,7 +1369,7 @@
   coordinates:
     lat: 32.69992
     long: -117.18292
-- name: "NOSC Pearl Harbor"
+- name: "NRC Pearl Harbor"
   address:
     street1: "400 Fuller Way, BLDG 279"
     street2: "BLDG 279"
@@ -1382,7 +1382,7 @@
   coordinates:
     lat: 21.34683
     long: -157.95636
-- name: "NOSC Phoenix"
+- name: "NRC Phoenix"
   address:
     street1: "14160 West Marauder St. Bldg 300"
     city: "Luke Air Force Base"
@@ -1394,7 +1394,7 @@
   coordinates:
     lat: 33.54433
     long: -112.36372
-- name: "NOSC Reno"
+- name: "NRC Reno"
   address:
     street1: "4601 Cocoa Ave"
     city: "Reno"
@@ -1406,7 +1406,7 @@
   coordinates:
     lat: 39.65636
     long: -119.87064
-- name: "NOSC Sacramento"
+- name: "NRC Sacramento"
   address:
     street1: "8277 ELDER CREEK ROAD"
     city: "SACRAMENTO"
@@ -1418,7 +1418,7 @@
   coordinates:
     lat: 38.51172
     long: -121.39956
-- name: "NOSC Salt Lake City"
+- name: "NRC Salt Lake City"
   address:
     street1: "116 Pollock Road"
     city: "Salt Lake City"
@@ -1430,7 +1430,7 @@
   coordinates:
     lat: 40.76142
     long: -111.83150
-- name: "NOSC San Diego"
+- name: "NRC San Diego"
   address:
     street1: "9955 Pomerado Rd"
     city: "San Diego"
@@ -1442,7 +1442,7 @@
   coordinates:
     lat: 32.89367
     long: -117.11300
-- name: "NOSC San Jose"
+- name: "NRC San Jose"
   address:
     street1: "995 E Mission St."
     city: "San Jose"
@@ -1454,7 +1454,7 @@
   coordinates:
     lat: 37.36117
     long: -121.88258
-- name: "NOSC Tucson"
+- name: "NRC Tucson"
   address:
     street1: "3655 SOUTH WILMOT ROAD"
     city: "TUCSON"
@@ -1466,7 +1466,7 @@
   coordinates:
     lat: 32.17994
     long: -110.85703
-- name: "NOSC Ventura County"
+- name: "NRC Ventura County"
   address:
     street1: "951 23rd Ave. BLDG 1491"
     city: "Port Hueneme"
