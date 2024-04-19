@@ -65,8 +65,8 @@ menu:
     - name: "USN"
       url: "/navy/"
       weight: -1
-    - name: "NOSCs"
-      url: "/navy/nosc/"
+    - name: "NRCs"
+      url: "/navy/nrc/"
       weight: 5
     - name: "Important Links"
       url: "/navy/important-links/"
