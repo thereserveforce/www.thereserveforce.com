@@ -520,7 +520,7 @@
     city: "ROCHESTER"
     state: "NY"
     zip: "14624"
-  phone: "(585) 247-6858"
+  phone: "585-672-0555"
   region: "Navy Region Mid-Atlantic (Norfolk)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/ROCHESTER/Pages/NOSC%20Rochester.aspx"
   coordinates:
@@ -640,7 +640,7 @@
     city: "Chattanooga"
     state: "TN"
     zip: "37406"
-  phone: "423 698 8955"
+  phone: "423-459-9930"
   region: "Navy Region Southeast (Jacksonville)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/CHATTANOOGA/Pages/NRH_Default.aspx"
   coordinates:
@@ -965,7 +965,7 @@
     city: "Oklahoma City"
     state: "OK"
     zip: "73150"
-  phone: "405-733-1052"
+  phone: "572-633-6240"
   region: "Navy Region Southeast (Fort Worth)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_FW/OKLAHOMA_CITY/Pages/NRH_default.aspx"
   coordinates:
@@ -1388,7 +1388,7 @@
     city: "Luke Air Force Base"
     state: "AZ"
     zip: "85309"
-  phone: "(602) 484-7292"
+  phone: "602-337-5725"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/PHOENIX/Pages/NRH_default.aspx"
   coordinates:
