@@ -292,7 +292,7 @@
     city: "Baltimore"
     state: "MD"
     zip: "21230"
-  phone: "410-752-4561"
+  phone: "(443) 695-1714"
   region: "Navy Region Mid-Atlantic (Norfolk)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/BALTIMORE/Pages/NRH_Default.aspx"
   coordinates:
@@ -424,7 +424,7 @@
     city: "Bronx"
     state: "NY"
     zip: "10465"
-  phone: "(718) 892-0312"
+  phone: "(718) 775-9430"
   region: "Navy Region Mid-Atlantic (Norfolk)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/NEW_YORK_CITY/Pages/NRH_Default.aspx"
   coordinates:
@@ -592,7 +592,7 @@
     city: "Marietta"
     state: "GA"
     zip: "30069"
-  phone: "678-655-5927"
+  phone: "(678) 655-6000"
   region: "Navy Region Southeast (Jacksonville)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/ATLANTA/Pages/NRH_Default.aspx"
   coordinates:
@@ -1146,7 +1146,7 @@
     city: "FORT HARRISON"
     state: "MT"
     zip: "59636"
-  phone: "406-449-5725"
+  phone: "(406) 417-6190"
   region: "Navy Region Northwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/HELENA/Pages/NRH_Default.aspx"
   coordinates:
@@ -1191,10 +1191,10 @@
 - name: "NRC Portland"
   address:
     street1: "6735 NORTH BASIN AVENUE"
-    city: "PORTLAND"
+    city: "Portland"
     state: "OR"
     zip: "97217"
-  phone: "503-285-4566"
+  phone: "(503) 382-4154"
   region: "Navy Region Northwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRNW/PORTLAND/Pages/NRH_Default.aspx"
   coordinates:
@@ -1394,18 +1394,19 @@
   coordinates:
     lat: 33.54433
     long: -112.36372
-- name: "NRC Reno"
+- name: "NRC Fallon"
   address:
-    street1: "4601 Cocoa Ave"
-    city: "Reno"
+    street1: "4755 Pasture Rd"
+    street1: "Bldg 4204"
+    city: "Fallon"
     state: "NV"
-    zip: "89506"
-  phone: "(775) 971-6289"
+    zip: "89496"
+  phone: "(775) 426-3468"
   region: "Navy Region Southwest"
-  sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/RENO/Pages/NRH_default.aspx"
+  sharepoint: ""
   coordinates:
-    lat: 39.65636
-    long: -119.87064
+    lat: 39.42062
+    long: -118.72311
 - name: "NRC Sacramento"
   address:
     street1: "8277 ELDER CREEK ROAD"
