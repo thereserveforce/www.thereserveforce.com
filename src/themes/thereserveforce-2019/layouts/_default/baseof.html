@@ -22,6 +22,8 @@
 	{{ partial "twitter-card" . }}
 	{{ partial "verifications" . }}
 	<link rel="alternate" type="application/rss+xml" href="/blog/index.xml" title="The Reserve Force Blog" />
+	<script defer data-domain="thereserveforce.com" src="https://analytics.revidian.com/js/script.file-downloads.outbound-links.js"></script>
+	<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 </head>
 <body class="{{ if .IsHome }}home {{ end }}{{ if .Section }}section-{{ .Section }}{{ end }} type-{{ .Type }}">
 	{{ partial "header" . }}
