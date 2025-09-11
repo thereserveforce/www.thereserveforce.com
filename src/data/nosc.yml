@@ -328,7 +328,7 @@
     city: "Charlotte"
     state: "NC"
     zip: "28213"
-  phone: "(704)598-0447"
+  phone: "(704) 972-1540"
   region: "Navy Region Mid-Atlantic (Norfolk)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/CHARLOTTE/Pages/NRH_Default.aspx"
   coordinates:
@@ -484,7 +484,7 @@
     city: "Raleigh"
     state: "NC"
     zip: "27606"
-  phone: "919-834-6461"
+  phone: "919-749-0200"
   region: "Navy Region Mid-Atlantic (Norfolk)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRMA_NFK/RALEIGH/Pages/NRH_Default.aspx"
   coordinates:
@@ -610,13 +610,13 @@
   coordinates:
     lat: 33.47186
     long: -82.03714
-- name: "NRC Bessemer"
+- name: "NRC Birmingham"
   address:
     street1: "1001 4th Ave SW"
     city: "Bessemer"
     state: "AL"
     zip: "35022"
-  phone: "205-497-2600"
+  phone: "(659) 235-6883"
   region: "Navy Region Southeast (Jacksonville)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/BESSEMER/Pages/DEFAULT.aspx"
   coordinates:
@@ -700,7 +700,7 @@
     city: "Knoxville"
     state: "TN"
     zip: "37920"
-  phone: "865-545-4720"
+  phone: "(865) 895-6200"
   region: "Navy Region Southeast (Jacksonville)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/KNOXVILLE/Pages/NRH_Default.aspx"
   coordinates:
@@ -724,7 +724,7 @@
     city: "Hialeah"
     state: "FL"
     zip: "33015"
-  phone: "(305) 628-5150"
+  phone: "(786) 855-0200"
   region: "Navy Region Southeast (Jacksonville)"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSE_JAX/MIAMI/Pages/NOSC-Miami.aspx"
   coordinates:
@@ -1254,7 +1254,7 @@
     city: "ALAMEDA"
     state: "CA"
     zip: "94501"
-  phone: "(510) 814-2605"
+  phone: "(510) 967-5143"
   region: "Navy Region Southwest"
   sharepoint: "https://private.navyreserve.navy.mil/RCC/NRSW/ALAMEDA/Pages/NRH_default.aspx"
   coordinates:
